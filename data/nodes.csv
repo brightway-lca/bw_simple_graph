@@ -1,0 +1,2650 @@
+id,name,kind,unit,location,subgraph_id
+10001,Frozen food; at manufacturer,activity,USD,United States,1
+10002,Carbon and graphite products; at manufacturer,activity,USD,United States,1
+10003,Petrochemicals; at manufacturer,activity,USD,United States,1
+10004,"Mattresses, blinds and shades; at manufacturer",activity,USD,United States,1
+10005,Nonresidential building repair and maintanence,activity,USD,United States,1
+10006,Ice cream and frozen desserts; at manufacturer,activity,USD,United States,1
+10007,Coffee and tea; at manufacturer,activity,USD,United States,1
+10008,Insurance carriers,activity,USD,United States,1
+10009,Dairies,activity,USD,United States,1
+10010,Home cooking appliances; at manufacturer,activity,USD,United States,1
+10011,Vehicle metal stamping; at manufacturer,activity,USD,United States,1
+10012,"Fiber, yarn, and thread; at manufacturer",activity,USD,United States,1
+10013,Wireless telecommunications,activity,USD,United States,1
+10014,"Chemicals (except basic chemicals, agrichemicals, polymers, paints, pharmaceuticals,soaps, cleaning compounds); at manufacturer",activity,USD,United States,1
+10015,Salons and barber shops,activity,USD,United States,1
+10016,Other concrete products; at manufacturer,activity,USD,United States,1
+10017,Pumps and pumping equipment; at manufacturer,activity,USD,United States,1
+10018,"Highways, streets, and bridges",activity,USD,United States,1
+10019,Coal; at mine,activity,USD,United States,1
+10020,Aircraft engines and parts; at manufacturer,activity,USD,United States,1
+10021,Wild-caught fish and game; at place of capture,activity,USD,United States,1
+10022,Semiconductor machinery; at manufacturer,activity,USD,United States,1
+10023,Investigation and security,activity,USD,United States,1
+10024,Other support services,activity,USD,United States,1
+10025,"Light gauge metal cans, boxes, and containers; at manufacturer",activity,USD,United States,1
+10026,Medical laboratories,activity,USD,United States,1
+10027,Toiletries; at manufacturer,activity,USD,United States,1
+10028,Jewelry and silverware; at manufacturer,activity,USD,United States,1
+10029,Paints and coatings; at manufacturer,activity,USD,United States,1
+10030,Drinking water and wastewater treatment; at consumer,activity,USD,United States,1
+10031,Truck trailers; at manufacturer,activity,USD,United States,1
+10032,"Directory, mailing list, and other publishers; at publisher",activity,USD,United States,1
+10033,Cheese; at manufacturer,activity,USD,United States,1
+10034,Shelving and lockers; at manufacturer,activity,USD,United States,1
+10035,Farm machinery and equipment; at manufacturer,activity,USD,United States,1
+10036,Small electrical appliances; at manufacturer,activity,USD,United States,1
+10037,Urethane and other foam products; at manufacturer,activity,USD,United States,1
+10038,Dental equipment and supplies; at manufacturer,activity,USD,United States,1
+10039,Lawn and garden equipment; at manufacturer,activity,USD,United States,1
+10040,Health care buildings,activity,USD,United States,1
+10041,Power boilers and heat exchangers; at manufacturer,activity,USD,United States,1
+10042,Heavy duty trucks; at manufacturer,activity,USD,United States,1
+10043,Other vehicle parts; at manufacturer,activity,USD,United States,1
+10044,Electronic  equipment repair and maintenance,activity,USD,United States,1
+10045,"Marketing research and all other miscellaneous professional, scientific, and technical services",activity,USD,United States,1
+10046,All other food and drinking places,activity,USD,United States,1
+10047,Sports,activity,USD,United States,1
+10048,"Plastic bags, films, and sheets; at manufacturer",activity,USD,United States,1
+10049,Curtains and linens; at manufacturer,activity,USD,United States,1
+10050,"Metal plumbing drains, faucets, valves, and other fittings; at manufacturer",activity,USD,United States,1
+10051,Passenger ground transport,activity,USD,United States,1
+10052,Light fixtures; at manufacturer,activity,USD,United States,1
+10053,Electricity; at consumer,activity,USD,United States,1
+10054,Other nonresidential structures,activity,USD,United States,1
+10055,Books; at publisher,activity,USD,United States,1
+10056,"Community food, housing, and other relief services, including rehabilitation services",activity,USD,United States,1
+10057,Well drilling,activity,USD,United States,1
+10058,Abrasive products; at manufacturer,activity,USD,United States,1
+10059,Dog and cat food; at manufacturer,activity,USD,United States,1
+10060,Soap and cleaning compounds; at manufacturer,activity,USD,United States,1
+10061,Office administration,activity,USD,United States,1
+10062,Snack foods; at manufacturer,activity,USD,United States,1
+10063,Metal cutting and forming machine tools; at manufacturer,activity,USD,United States,1
+10064,Primary batteries; at manufacturer,activity,USD,United States,1
+10065,Pipeline transport,activity,USD,United States,1
+10066,Air and gas compressors; at manufacturer,activity,USD,United States,1
+10067,Ball and roller bearings; at manufacturer,activity,USD,United States,1
+10068,Monetary authorities and depository credit intermediation,activity,USD,United States,1
+10069,Lumber and treated lumber; at manufacturer,activity,USD,United States,1
+10070,Promoters and agents,activity,USD,United States,1
+10071,All other converted paper products; at manufacturer,activity,USD,United States,1
+10072,"Welding and Soldering Equipment, Scales and Balances, and other general purpose machinery; at manufacturer",activity,USD,United States,1
+10073,Surgical appliance and supplies; at manufacturer,activity,USD,United States,1
+10074,Employment services,activity,USD,United States,1
+10075,Industrial molds; at manufacturer,activity,USD,United States,1
+10076,Other support activities for mining,activity,USD,United States,1
+10077,Other engine equipment; at manufacturer,activity,USD,United States,1
+10078,Computer storage device readers; at manufacturer,activity,USD,United States,1
+10079,Vehicle electrical and electronic equipment; at manufacturer,activity,USD,United States,1
+10080,Communication and energy wire and cable; at manufacturer,activity,USD,United States,1
+10081,"Speed changers, industrial high-speed drives, and gears; at manufacturer",activity,USD,United States,1
+10082,Specialized design,activity,USD,United States,1
+10083,Primary copper; at manufacturer,activity,USD,United States,1
+10084,Rest of the world adjustment,activity,USD,United States,1
+10085,Plywood and veneer; at manufacturer,activity,USD,United States,1
+10086,"Home furniture - wood, nonupholstered; at manufacturer",activity,USD,United States,1
+10087,Office machinery; at manufacturer,activity,USD,United States,1
+10088,Other aircraft parts; at manufacturer,activity,USD,United States,1
+10089,"Sugar, candy, and chocolate; at manufacturer",activity,USD,United States,1
+10090,Cardboard; at manufacturer,activity,USD,United States,1
+10091,Lessors of nonfinancial intangible assets,activity,USD,United States,1
+10092,Metal structural products; at manufacturer,activity,USD,United States,1
+10093,Schools and vocational buildings,activity,USD,United States,1
+10094,Air purification and ventilation equipment; at manufacturer,activity,USD,United States,1
+10095,Radio and television,activity,USD,United States,1
+10096,Timber and raw forest products; at forest,activity,USD,United States,1
+10097,Home refrigerators and freezers; at manufacturer,activity,USD,United States,1
+10098,Vehicle repair,activity,USD,United States,1
+10099,Sound recording,activity,USD,United States,1
+10100,Veterinarians,activity,USD,United States,1
+10101,Clothing; at manufacturer,activity,USD,United States,1
+10102,"Pharmaceutical products (pills, powders, solutions, etc.); at manufacturer",activity,USD,United States,1
+10103,Signal testing instruments; at manufacturer,activity,USD,United States,1
+10104,"Electronic capacitors, resistors, coils, transformers, connectors and other components (except  semiconductors and printed circuit assemblies); at manufacturer",activity,USD,United States,1
+10105,Scientific research and development,activity,USD,United States,1
+10106,"Special tools, dies, jigs, and fixtures; at manufacturer",activity,USD,United States,1
+10107,Wood kitchen cabinets and countertops; at manufacturer,activity,USD,United States,1
+10108,"Dry, condensed, and evaporated dairy; at manufacturer",activity,USD,United States,1
+10109,Bread and other baked goods; at manufacturer,activity,USD,United States,1
+10110,"Metal windows, doors, and architectural products; at manufacturer",activity,USD,United States,1
+10111,Synthetic rubber and artificial and synthetic fibers; at manufacturer,activity,USD,United States,1
+10112,"Accounting, tax preparation, bookkeeping, and payroll",activity,USD,United States,1
+10113,"News syndicates, libraries, archives, Internet publishing and all other information services",activity,USD,United States,1
+10114,"Screws, nuts, and bolts; at manufacturer",activity,USD,United States,1
+10115,Paper; at manufacturer,activity,USD,United States,1
+10116,Full-service restaurants,activity,USD,United States,1
+10117,Nursing and community care facilities,activity,USD,United States,1
+10118,Propulsion units and parts for space vehicles and guided missiles; at manufacturer,activity,USD,United States,1
+10119,Cable and subscription programming,activity,USD,United States,1
+10120,Other secondary nonferrous metal products; at manufacturer,activity,USD,United States,1
+10121,"Fresh soybeans, canola, flaxseeds, and other oilseeds; at farm",activity,USD,United States,1
+10122,Residential building repair and maintanence,activity,USD,United States,1
+10123,Business support,activity,USD,United States,1
+10124,Home furniture - upholstered; at manufacturer,activity,USD,United States,1
+10125,Boats; at manufacturer,activity,USD,United States,1
+10126,Wineries and wine; at manufacturer,activity,USD,United States,1
+10127,Insurance agencies and brokerages,activity,USD,United States,1
+10128,Aircraft; at manufacturer,activity,USD,United States,1
+10129,Tobacco products; at manufacturer,activity,USD,United States,1
+10130,Office furniture and custom architectural woodwork and millwork; at manufacturer,activity,USD,United States,1
+10131,"Tobacco, cotton, sugarcane, peanuts, sugar beets, herbs and spices, and other crops; at farm",activity,USD,United States,1
+10132,"Metal pipe fittings, ball and roller bearings, industrial patterns, metal bath fixtures, other misc. fabricated metals; at manufacturer",activity,USD,United States,1
+10133,Postal service,activity,USD,United States,1
+10134,Light bulbs; at manufacturer,activity,USD,United States,1
+10135,Rubber tires; at manufacturer,activity,USD,United States,1
+10136,All other foods; at manufacturer,activity,USD,United States,1
+10137,Elementary and secondary schools,activity,USD,United States,1
+10138,Custom computer programming,activity,USD,United States,1
+10139,Turbines and turbine generator sets; at manufacturer,activity,USD,United States,1
+10140,Environmental and other technical consulting services,activity,USD,United States,1
+10141,Fresh fruits and tree nuts; at farm,activity,USD,United States,1
+10142,Other retail,activity,USD,United States,1
+10143,Child day care,activity,USD,United States,1
+10144,Valve and fittings (except for plumbing); at manufacturer,activity,USD,United States,1
+10145,Irradiation apparatuses; at manufacturer,activity,USD,United States,1
+10146,State and local government,activity,USD,United States,1
+10147,Mechanical power transmission equipment; at manufacturer,activity,USD,United States,1
+10148,Limited-service restaurants,activity,USD,United States,1
+10149,Printed circuit and electronic assembly; at manufacturer,activity,USD,United States,1
+10150,Funerary services,activity,USD,United States,1
+10151,"Independent artists, writers, and performers",activity,USD,United States,1
+10152,Federal government (defense),activity,USD,United States,1
+10153,"Water transport (boats, ships, ferries)",activity,USD,United States,1
+10154,Lime and gypsum products; at manufacturer,activity,USD,United States,1
+10155,"Greenhouse crops, mushrooms, nurseries, and flowers; at farm",activity,USD,United States,1
+10156,Unrefined oil and gas; at extraction site,activity,USD,United States,1
+10157,"Concrete pipe, bricks, and blocks; at manufacturer",activity,USD,United States,1
+10158,Industrial process variable instruments; at manufacturer,activity,USD,United States,1
+10159,"Dolls, toys, and games; at manufacturer",activity,USD,United States,1
+10160,Other basic inorganic chemicals; at manufacturer,activity,USD,United States,1
+10161,Plastics and rubber industry machinery; at manufacturer,activity,USD,United States,1
+10162,"Veneer, plywood, and engineered wood; at manufacturer",activity,USD,United States,1
+10163,Compressed Gases; at manufacturer,activity,USD,United States,1
+10164,Wiring devices; at manufacturer,activity,USD,United States,1
+10165,Household employees,activity,USD,United States,1
+10166,Storage batteries; at manufacturer,activity,USD,United States,1
+10167,Software,activity,USD,United States,1
+10168,Fertilizers; at manufacturer,activity,USD,United States,1
+10169,Home healthcare,activity,USD,United States,1
+10170,Plastics; at manufacturer,activity,USD,United States,1
+10171,"Ammunition, arms, ordnance, and related accessories; at manufacturer",activity,USD,United States,1
+10172,Printing support; at manufacturer,activity,USD,United States,1
+10173,Flavored drink concentrates; at manufacturer,activity,USD,United States,1
+10174,Outpatient healthcare,activity,USD,United States,1
+10175,"Sanitary paper (tissues, napkins, diapers, etc.); at manufacturer",activity,USD,United States,1
+10176,"Civic, social, professional, and similar organizations",activity,USD,United States,1
+10177,Scenic and sightseeing transportation and support activities for transportation,activity,USD,United States,1
+10178,Packaged poultry; at manufacturer,activity,USD,United States,1
+10179,"Metal hinges, keys, lock, and other hardware; at manufacturer",activity,USD,United States,1
+10180,Natural gas; at consumer,activity,USD,United States,1
+10181,Breakfast cereals; at manufacturer,activity,USD,United States,1
+10182,Individual and family services,activity,USD,United States,1
+10183,Secondary steel products; at manufacturer,activity,USD,United States,1
+10184,Sporting and athletic goods; at manufacturer,activity,USD,United States,1
+10185,"Copper, nickel, lead, and zinc; at mine",activity,USD,United States,1
+10186,Internet publishing and broadcasting,activity,USD,United States,1
+10187,"Fresh vegetables, melons, and potatoes; at farm",activity,USD,United States,1
+10188,"Machinery for the paper, textile, food or other industries (except semiconductor machinery); at manufacturer",activity,USD,United States,1
+10189,"Satellite, telecommunications resellers, and all other telecommunications",activity,USD,United States,1
+10190,Consumer goods and general rental centers,activity,USD,United States,1
+10191,Material handling equipment; at manufacturer,activity,USD,United States,1
+10192,Flours and malts; at manufacturer,activity,USD,United States,1
+10193,Other petroleum and coal products; at manufacturer,activity,USD,United States,1
+10194,"Blood sugar, pregnancy, and other diagnostic test kits; at manufacturer",activity,USD,United States,1
+10195,Switchgear and switchboards; at manufacturer,activity,USD,United States,1
+10196,"Iron, gold, silver, and other metal ores; at mine",activity,USD,United States,1
+10197,Noncomparable imports,activity,USD,United States,1
+10198,"Metal coatings, engravings, and heat treatments; at manufacturer",activity,USD,United States,1
+10199,Vaccines and other biological medical products; at manufacturer,activity,USD,United States,1
+10200,Leather; at manufacturer,activity,USD,United States,1
+10201,"Sand, gravel, clay, phosphate, other nonmetallic minerals; at mine",activity,USD,United States,1
+10202,"Gasoline, fuels, and by-products of petroleum refining; at manufacturer",activity,USD,United States,1
+10203,Finished and coated fabric; at manufacturer,activity,USD,United States,1
+10204,Ink and ink cartridges; at manufacturer,activity,USD,United States,1
+10205,Used and secondhand goods,activity,USD,United States,1
+10206,"Investment advice, portfolio management, and other financial advising services",activity,USD,United States,1
+10207,Federal government enterprises,activity,USD,United States,1
+10208,Surgical and medical instruments; at manufacturer,activity,USD,United States,1
+10209,Physicians,activity,USD,United States,1
+10210,"Lids, jars, bottle caps, other metal closures and crowns; at manufacturer",activity,USD,United States,1
+10211,Power tools; at manufacturer,activity,USD,United States,1
+10212,Vehicles and parts sales,activity,USD,United States,1
+10213,Audio and video equipment; at manufacturer,activity,USD,United States,1
+10214,Dry-cleaning and laundry,activity,USD,United States,1
+10215,Air transport,activity,USD,United States,1
+10216,Ambulances,activity,USD,United States,1
+10217,Commercial machinery repair,activity,USD,United States,1
+10218,"Refined vegetable, olive, and seed oils; at manufacturer",activity,USD,United States,1
+10219,Nonferrous metal casts; at manufacturer,activity,USD,United States,1
+10220,Plastic bottles; at manufacturer,activity,USD,United States,1
+10221,Data processing and hosting,activity,USD,United States,1
+10222,Animal farms and aquaculture ponds (except cattle and poultry),activity,USD,United States,1
+10223,Couriers and messengers,activity,USD,United States,1
+10224,Federal government (nondefense),activity,USD,United States,1
+10225,Photographers,activity,USD,United States,1
+10226,Fabric; at manufacturer,activity,USD,United States,1
+10227,Warehousing,activity,USD,United States,1
+10228,Dimensional stone; at mine,activity,USD,United States,1
+10229,Semiconductors; at manufacturer,activity,USD,United States,1
+10230,"Commercial structures, including farm structures",activity,USD,United States,1
+10231,"Wooden windows, door, and flooring; at manufacturer",activity,USD,United States,1
+10232,"Home furniture - Cabinets and non-wood, nonupholstered; at manufacturer",activity,USD,United States,1
+10233,Fluid milk and butter; at manufacturer,activity,USD,United States,1
+10234,Carpets and rugs; at manufacturer,activity,USD,United States,1
+10235,Automobiles; at manufacturer,activity,USD,United States,1
+10236,Amusement parks and arcades,activity,USD,United States,1
+10237,Institutional furniture; at manufacturer,activity,USD,United States,1
+10238,Paper bags and coated paper; at manufacturer,activity,USD,United States,1
+10239,"Vending, commercial laundry, and other commercial and service industry machinery; at manufacturer",activity,USD,United States,1
+10240,Vehicle engines and engine parts; at manufacturer,activity,USD,United States,1
+10241,Specialty transformers; at manufacturer,activity,USD,United States,1
+10242,Wholesale trade,activity,USD,United States,1
+10243,Aluminum; at manufacturer,activity,USD,United States,1
+10244,Dental laboratories; at manufacturer,activity,USD,United States,1
+10245,Office supplies (not paper); at manufacturer,activity,USD,United States,1
+10246,Gambling establishments (except casino hotels),activity,USD,United States,1
+10247,Cut stone and stone products; at manufacturer,activity,USD,United States,1
+10248,Guided missiles and space vehicles; at manufacturer,activity,USD,United States,1
+10249,"Air conditioning, refrigeration, and warm air heating equipment; at manufacturer",activity,USD,United States,1
+10250,Construction machinery; at manufacturer,activity,USD,United States,1
+10251,Other textiles; at manufacturer,activity,USD,United States,1
+10252,Other transportation equipment; at manufacturer,activity,USD,United States,1
+10253,Pesticides; at manufacturer,activity,USD,United States,1
+10254,"Soft drinks, bottled water, and ice; at manufacturer",activity,USD,United States,1
+10255,Corn products; at manufacturer,activity,USD,United States,1
+10256,"Grantmaking, giving, and social advocacy organizations",activity,USD,United States,1
+10257,"Hydraulic pumps, motors, cylinders and actuators; at manufacturer",activity,USD,United States,1
+10258,Poultry farms,activity,USD,United States,1
+10259,General merchandise stores,activity,USD,United States,1
+10260,Packaging machinery; at manufacturer,activity,USD,United States,1
+10261,Machine shops; at manufacturer,activity,USD,United States,1
+10262,"Gaskets, seals, musical instruments, fasteners, brooms, brushes, mop and other misc. goods; at manufacturer",activity,USD,United States,1
+10263,Fluid meters and counting devices; at manufacturer,activity,USD,United States,1
+10264,Mineral wool; at manufacturer,activity,USD,United States,1
+10265,Railroad rolling stock; at manufacturer,activity,USD,United States,1
+10266,Ready-mix concrete; at manufacturer,activity,USD,United States,1
+10267,Analytical laboratory instruments; at manufacturer,activity,USD,United States,1
+10268,Vegetable oils and by-products; at manufacturer,activity,USD,United States,1
+10269,Agriculture and forestry support,activity,USD,United States,1
+10270,Other plastic products; at manufacturer,activity,USD,United States,1
+10271,Aluminum products; at manufacturer,activity,USD,United States,1
+10272,Mining and oil/gas field machinery; at manufacturer,activity,USD,United States,1
+10273,Healthcare practitioners (except physicians and dentists),activity,USD,United States,1
+10274,Wireless communications; at manufacturer,activity,USD,United States,1
+10275,"Funds, trusts, and financial vehicles",activity,USD,United States,1
+10276,Optical instruments and lenses; at manufacturer,activity,USD,United States,1
+10277,"Colleges, universities, junior colleges, and professional schools",activity,USD,United States,1
+10278,Distilleries and spirits; at manufacturer,activity,USD,United States,1
+10279,Fabricated pipe and pipe fittings; at manufacturer,activity,USD,United States,1
+10280,Other educational services,activity,USD,United States,1
+10281,"Plastic pipe, fittings, and sausage casings; at manufacturer",activity,USD,United States,1
+10282,Multifamily homes,activity,USD,United States,1
+10283,Facilities support,activity,USD,United States,1
+10284,Household goods repair,activity,USD,United States,1
+10285,Navigation instruments; at manufacturer,activity,USD,United States,1
+10286,Securities and commodities brokerage and exchanges,activity,USD,United States,1
+10287,Custom metal rolls; at manufacturer,activity,USD,United States,1
+10288,Rubber and plastic belts and hoses; at manufacturer,activity,USD,United States,1
+10289,Cast iron and steel; at manufacturer,activity,USD,United States,1
+10290,Clay and ceramic products; at manufacturer,activity,USD,United States,1
+10291,"Fresh wheat, corn, rice, and other grains; at farm",activity,USD,United States,1
+10292,Communications equipment; at manufacturer,activity,USD,United States,1
+10293,Asphalt shingles; at manufacturer,activity,USD,United States,1
+10294,Computer systems design,activity,USD,United States,1
+10295,Computers; at manufacturer,activity,USD,United States,1
+10296,Heavy gauge metal tanks; at manufacturer,activity,USD,United States,1
+10297,Buildings and dwellings services,activity,USD,United States,1
+10298,Travel arrangement and reservation,activity,USD,United States,1
+10299,Religious organizations,activity,USD,United States,1
+10300,Other nonmetallic mineral products; at manufacturer,activity,USD,United States,1
+10301,Truck transport,activity,USD,United States,1
+10302,Relay and industrial controls; at manufacturer,activity,USD,United States,1
+10303,Manufacturing buildings,activity,USD,United States,1
+10304,"Motor vehicle steering, suspension components (except spring), and brake systems; at manufacturer",activity,USD,United States,1
+10305,Other real estate,activity,USD,United States,1
+10306,Asphalt pavement; at manufacturer,activity,USD,United States,1
+10307,Other rubber products; at manufacturer,activity,USD,United States,1
+10308,Vehicle bodies; at manufacturer,activity,USD,United States,1
+10309,"Cutting and machine tool accessory, rolling mill, and other metalworking machines; at manufacturer",activity,USD,United States,1
+10310,Stationery; at manufacturer,activity,USD,United States,1
+10311,Transmission and power train parts; at manufacturer,activity,USD,United States,1
+10312,Single-family homes,activity,USD,United States,1
+10313,Ground or treated minerals and earth; at manufacturer,activity,USD,United States,1
+10314,Breweries and beer; at manufacturer,activity,USD,United States,1
+10315,Laminated plastic plates and shapes; at manufacturer,activity,USD,United States,1
+10316,"Cookies, crackers, pastas, and tortillas; at manufacturer",activity,USD,United States,1
+10317,"Motorcycle, bicycle, and parts; at manufacturer",activity,USD,United States,1
+10318,Packaged meat (except poultry); at manufacturer,activity,USD,United States,1
+10319,Telecommunications,activity,USD,United States,1
+10320,Legal services,activity,USD,United States,1
+10321,Vehicle seating and interior trim (upholstery); at manufacturer,activity,USD,United States,1
+10322,Hotels and campgrounds,activity,USD,United States,1
+10323,Medicinal and botanical ingredients; at manufacturer,activity,USD,United States,1
+10324,Military armored vehicles and tanks; at manufacturer,activity,USD,United States,1
+10325,"Architectural, engineering, and related services",activity,USD,United States,1
+10326,"Pickup trucks, vans, and SUVs; at manufacturer",activity,USD,United States,1
+10327,Home laundry machines; at manufacturer,activity,USD,United States,1
+10328,Motor homes; at manufacturer,activity,USD,United States,1
+10329,Telephones; at manufacturer,activity,USD,United States,1
+10330,"Pet care, photofinishing, parking and other sundry services",activity,USD,United States,1
+10331,"Major home appliances (except ovens, stoves, refrigerators and laundry machines); at manufacturer",activity,USD,United States,1
+10332,Fruit and vegetable preservation; at manufacturer,activity,USD,United States,1
+10333,Cutlery and handtools; at manufacturer,activity,USD,United States,1
+10334,Hospitals,activity,USD,United States,1
+10335,Food and beverage stores,activity,USD,United States,1
+10336,Vehicle rental and leasing,activity,USD,United States,1
+10337,Springs and wires; at manufacturer,activity,USD,United States,1
+10338,Other miscellaneous electrical equipment and components; at manufacturer,activity,USD,United States,1
+10339,"External hard drives, CDs, other storage media; at manufacturer",activity,USD,United States,1
+10340,Cardboard containers; at manufacturer,activity,USD,United States,1
+10341,Polystyrene foam products; at manufacturer,activity,USD,United States,1
+10342,"Residential mental retardation, mental health, substance abuse and other facilities",activity,USD,United States,1
+10343,Industrial process furnaces and ovens; at manufacturer,activity,USD,United States,1
+10344,Commercial equipment rental,activity,USD,United States,1
+10345,Heating equipment other than warm air furnaces; at manufacturer,activity,USD,United States,1
+10346,Signs; at manufacturer,activity,USD,United States,1
+10347,Other primary nonferrous metals; at manufacturer,activity,USD,United States,1
+10348,"Golf courses, marinas, ski resorts, fitness and other rec centers and industries",activity,USD,United States,1
+10349,Utilities buildings and infrastructure,activity,USD,United States,1
+10350,"Museums, historical sites, zoos, and parks",activity,USD,United States,1
+10351,Ophthalmic goods; at manufacturer,activity,USD,United States,1
+10352,Glass and glass products; at manufacturer,activity,USD,United States,1
+10353,Movies and film,activity,USD,United States,1
+10354,Housing,activity,USD,United States,1
+10355,Computer terminals and other computer peripheral equipment; at manufacturer,activity,USD,United States,1
+10356,Electromedical appartuses; at manufacturer,activity,USD,United States,1
+10357,Cement; at manufacturer,activity,USD,United States,1
+10358,Dentists,activity,USD,United States,1
+10359,Adhesives; at manufacturer,activity,USD,United States,1
+10360,"Watches, clocks, and other measuring and controlling devices; at manufacturer",activity,USD,United States,1
+10361,Seasonings and dressings; at manufacturer,activity,USD,United States,1
+10362,Nondepository credit intermediation and related activities,activity,USD,United States,1
+10363,Waste management and remediation,activity,USD,United States,1
+10364,Other basic organic chemicals; at manufacturer,activity,USD,United States,1
+10365,Travel trailer and campers; at manufacturer,activity,USD,United States,1
+10366,Magazines and journals; at publisher,activity,USD,United States,1
+10367,Other animal food; at manufacturer,activity,USD,United States,1
+10368,Performances,activity,USD,United States,1
+10369,State and local government enterprises,activity,USD,United States,1
+10370,Advertising and public relations,activity,USD,United States,1
+10371,Photography and photocopying equipment; at manufacturer,activity,USD,United States,1
+10372,Newspapers; at publisher,activity,USD,United States,1
+10373,"Other computer related services, including facilities management",activity,USD,United States,1
+10374,"Primary iron, steel, and ferroalloy products; at manufacturer",activity,USD,United States,1
+10375,Company and enterprise management,activity,USD,United States,1
+10376,Seafood; at manufacturer,activity,USD,United States,1
+10377,Wood pulp; at manufacturer,activity,USD,United States,1
+10378,"All other forging, stamping, and sintering; at manufacturer",activity,USD,United States,1
+10379,Synthetic dyes and pigments; at manufacturer,activity,USD,United States,1
+10380,Ships and ship repair; at manufacturer,activity,USD,United States,1
+10381,Cattle ranches and feedlots,activity,USD,United States,1
+10382,Management consulting,activity,USD,United States,1
+10383,Rail transport,activity,USD,United States,1
+10384,Motors and generators; at manufacturer,activity,USD,United States,1
+10385,"Books, newspapers, magazines, and other print media; at manufacturer",activity,USD,United States,1
+10386,Other residential structures,activity,USD,United States,1
+10387,Secondary copper products; at manufacturer,activity,USD,United States,1
+10388,Automatic controls for HVAC and refrigeration equipment; at manufacturer,activity,USD,United States,1
+10389,Asphalt pavement; at manufacturer,product,,United States,1
+10390,Motor homes; at manufacturer,product,,United States,1
+10391,Home healthcare,product,,United States,1
+10392,Software,product,,United States,1
+10393,Other residential structures,product,,United States,1
+10394,Petrochemicals; at manufacturer,product,,United States,1
+10395,Signal testing instruments; at manufacturer,product,,United States,1
+10396,Irradiation apparatuses; at manufacturer,product,,United States,1
+10397,Abrasive products; at manufacturer,product,,United States,1
+10398,Ships and ship repair; at manufacturer,product,,United States,1
+10399,Magazines and journals; at publisher,product,,United States,1
+10400,Seasonings and dressings; at manufacturer,product,,United States,1
+10401,Single-family homes,product,,United States,1
+10402,other miscellaneous electrical equipment and components; at manufacturer,product,,United States,1
+10403,Fluid meters and counting devices; at manufacturer,product,,United States,1
+10404,Fabric; at manufacturer,product,,United States,1
+10405,Other textiles; at manufacturer,product,,United States,1
+10406,"Watches, clocks, and other measuring and controlling devices; at manufacturer",product,,United States,1
+10407,Federal government (defense),product,,United States,1
+10408,"Tobacco, cotton, sugarcane, peanuts, sugar beets, herbs and spices, and other crops; at farm",product,,United States,1
+10409,Scenic and sightseeing transportation and support activities for transportation,product,,United States,1
+10410,Nursing and community care facilities,product,,United States,1
+10411,Vegetable oils and by-products; at manufacturer,product,,United States,1
+10412,"Veneer, plywood, and engineered wood; at manufacturer",product,,United States,1
+10413,Scientific research and development,product,,United States,1
+10414,Analytical laboratory instruments; at manufacturer,product,,United States,1
+10415,Couriers and messengers,product,,United States,1
+10416,Air purification and ventilation equipment; at manufacturer,product,,United States,1
+10417,Full-service restaurants,product,,United States,1
+10418,Housing,product,,United States,1
+10419,Sound recording,product,,United States,1
+10420,Office furniture and custom architectural woodwork and millwork; at manufacturer,product,,United States,1
+10421,"Refined vegetable, olive, and seed oils; at manufacturer",product,,United States,1
+10422,Primary batteries; at manufacturer,product,,United States,1
+10423,Pumps and pumping equipment; at manufacturer,product,,United States,1
+10424,Ready-mix concrete; at manufacturer,product,,United States,1
+10425,Buildings and dwellings services,product,,United States,1
+10426,Environmental and other technical consulting services,product,,United States,1
+10427,Movies and film,product,,United States,1
+10428,Plywood and veneer; at manufacturer,product,,United States,1
+10429,Schools and vocational buildings,product,,United States,1
+10430,Household employees,product,,United States,1
+10431,Vehicle electrical and electronic equipment; at manufacturer,product,,United States,1
+10432,Agriculture and forestry support,product,,United States,1
+10433,"All other forging, stamping, and sintering; at manufacturer",product,,United States,1
+10434,Religious organizations,product,,United States,1
+10435,Transmission and power train parts; at manufacturer,product,,United States,1
+10436,Vehicle rental and leasing,product,,United States,1
+10437,State and local government enterprises,product,,United States,1
+10438,Relay and industrial controls; at manufacturer,product,,United States,1
+10439,"Pharmaceutical products (pills, powders, solutions, etc.); at manufacturer",product,,United States,1
+10440,Cardboard; at manufacturer,product,,United States,1
+10441,Soap and cleaning compounds; at manufacturer,product,,United States,1
+10442,Cutlery and handtools; at manufacturer,product,,United States,1
+10443,Power tools; at manufacturer,product,,United States,1
+10444,Navigation instruments; at manufacturer,product,,United States,1
+10445,Springs and wires; at manufacturer,product,,United States,1
+10446,Mineral wool; at manufacturer,product,,United States,1
+10447,Legal services,product,,United States,1
+10448,Audio and video equipment; at manufacturer,product,,United States,1
+10449,Insurance carriers,product,,United States,1
+10450,Breweries and beer; at manufacturer,product,,United States,1
+10451,Laminated plastic plates and shapes; at manufacturer,product,,United States,1
+10452,Synthetic dyes and pigments; at manufacturer,product,,United States,1
+10453,Cast iron and steel; at manufacturer,product,,United States,1
+10454,Postal service,product,,United States,1
+10455,Truck transport,product,,United States,1
+10456,Communication and energy wire and cable; at manufacturer,product,,United States,1
+10457,Computer systems design,product,,United States,1
+10458,"Fresh vegetables, melons, and potatoes; at farm",product,,United States,1
+10459,Frozen food; at manufacturer,product,,United States,1
+10460,Other transportation equipment; at manufacturer,product,,United States,1
+10461,Truck trailers; at manufacturer,product,,United States,1
+10462,"External hard drives, CDs, other storage media; at manufacturer",product,,United States,1
+10463,Aluminum; at manufacturer,product,,United States,1
+10464,Household goods repair,product,,United States,1
+10465,Printing support; at manufacturer,product,,United States,1
+10466,Plastics and rubber industry machinery; at manufacturer,product,,United States,1
+10467,Packaging machinery; at manufacturer,product,,United States,1
+10468,Office administration,product,,United States,1
+10469,Facilities support,product,,United States,1
+10470,Shelving and lockers; at manufacturer,product,,United States,1
+10471,"Investment advice, portfolio management, and other financial advising services",product,,United States,1
+10472,"Cutting and machine tool accessory, rolling mill, and other metalworking machines; at manufacturer",product,,United States,1
+10473,"Water transport (boats, ships, ferries)",product,,United States,1
+10474,"Community food, housing, and other relief services, including rehabilitation services",product,,United States,1
+10475,Cable and subscription programming,product,,United States,1
+10476,Ambulances,product,,United States,1
+10477,Semiconductor machinery; at manufacturer,product,,United States,1
+10478,Fruit and vegetable preservation; at manufacturer,product,,United States,1
+10479,Used and secondhand goods,product,,United States,1
+10480,Dental laboratories; at manufacturer,product,,United States,1
+10481,State and local government,product,,United States,1
+10482,Aircraft; at manufacturer,product,,United States,1
+10483,Cement; at manufacturer,product,,United States,1
+10484,Coal; at mine,product,,United States,1
+10485,Electricity; at consumer,product,,United States,1
+10486,Adhesives; at manufacturer,product,,United States,1
+10487,Rubber tires; at manufacturer,product,,United States,1
+10488,Business support,product,,United States,1
+10489,Waste management and remediation,product,,United States,1
+10490,Pipeline transport,product,,United States,1
+10491,Warehousing,product,,United States,1
+10492,Ophthalmic goods; at manufacturer,product,,United States,1
+10493,All other foods; at manufacturer,product,,United States,1
+10494,Nonresidential building repair and maintanence,product,,United States,1
+10495,Employment services,product,,United States,1
+10496,Rubber and plastic belts and hoses; at manufacturer,product,,United States,1
+10497,"Vending, commercial laundry, and other commercial and service industry machinery; at manufacturer",product,,United States,1
+10498,Telecommunications,product,,United States,1
+10499,Vehicle metal stamping; at manufacturer,product,,United States,1
+10500,"Speed changers, industrial high-speed drives, and gears; at manufacturer",product,,United States,1
+10501,Other retail,product,,United States,1
+10502,Distilleries and spirits; at manufacturer,product,,United States,1
+10503,Nonferrous metal casts; at manufacturer,product,,United States,1
+10504,Signs; at manufacturer,product,,United States,1
+10505,Mining and oil/gas field machinery; at manufacturer,product,,United States,1
+10506,Funerary services,product,,United States,1
+10507,Promoters and agents,product,,United States,1
+10508,Poultry farms,product,,United States,1
+10509,Electromedical appartuses; at manufacturer,product,,United States,1
+10510,"Metal plumbing drains, faucets, valves, and other fittings; at manufacturer",product,,United States,1
+10511,Monetary authorities and depository credit intermediation,product,,United States,1
+10512,Wholesale trade,product,,United States,1
+10513,All other converted paper products; at manufacturer,product,,United States,1
+10514,Metal structural products; at manufacturer,product,,United States,1
+10515,Flours and malts; at manufacturer,product,,United States,1
+10516,Boats; at manufacturer,product,,United States,1
+10517,Metal cutting and forming machine tools; at manufacturer,product,,United States,1
+10518,Paints and coatings; at manufacturer,product,,United States,1
+10519,"Light gauge metal cans, boxes, and containers; at manufacturer",product,,United States,1
+10520,"Commercial structures, including farm structures",product,,United States,1
+10521,Heavy gauge metal tanks; at manufacturer,product,,United States,1
+10522,Paper bags and coated paper; at manufacturer,product,,United States,1
+10523,Packaged meat (except poultry); at manufacturer,product,,United States,1
+10524,Pesticides; at manufacturer,product,,United States,1
+10525,Data processing and hosting,product,,United States,1
+10526,Company and enterprise management,product,,United States,1
+10527,Polystyrene foam products; at manufacturer,product,,United States,1
+10528,Wiring devices; at manufacturer,product,,United States,1
+10529,Gambling establishments (except casino hotels),product,,United States,1
+10530,Cheese; at manufacturer,product,,United States,1
+10531,Plastic bottles; at manufacturer,product,,United States,1
+10532,Specialized design,product,,United States,1
+10533,Photographers,product,,United States,1
+10534,Ball and roller bearings; at manufacturer,product,,United States,1
+10535,Flavored drink concentrates; at manufacturer,product,,United States,1
+10536,Electronic  equipment repair and maintenance,product,,United States,1
+10537,"Concrete pipe, bricks, and blocks; at manufacturer",product,,United States,1
+10538,Telephones; at manufacturer,product,,United States,1
+10539,"Funds, trusts, and financial vehicles",product,,United States,1
+10540,Surgical appliance and supplies; at manufacturer,product,,United States,1
+10541,"Dry, condensed, and evaporated dairy; at manufacturer",product,,United States,1
+10542,Automobiles; at manufacturer,product,,United States,1
+10543,"Gasoline, fuels, and by-products of petroleum refining; at manufacturer",product,,United States,1
+10544,Rest of the world adjustment,product,,United States,1
+10545,Ink and ink cartridges; at manufacturer,product,,United States,1
+10546,Natural gas; at consumer,product,,United States,1
+10547,Cut stone and stone products; at manufacturer,product,,United States,1
+10548,Heavy duty trucks; at manufacturer,product,,United States,1
+10549,Tobacco products; at manufacturer,product,,United States,1
+10550,Motors and generators; at manufacturer,product,,United States,1
+10551,Federal government enterprises,product,,United States,1
+10552,"Civic, social, professional, and similar organizations",product,,United States,1
+10553,Optical instruments and lenses; at manufacturer,product,,United States,1
+10554,Drinking water and wastewater treatment; at consumer,product,,United States,1
+10555,Ice cream and frozen desserts; at manufacturer,product,,United States,1
+10556,Manufacturing buildings,product,,United States,1
+10557,Salons and barber shops,product,,United States,1
+10558,Well drilling,product,,United States,1
+10559,Wineries and wine; at manufacturer,product,,United States,1
+10560,Hospitals,product,,United States,1
+10561,Lime and gypsum products; at manufacturer,product,,United States,1
+10562,Mechanical power transmission equipment; at manufacturer,product,,United States,1
+10563,Toiletries; at manufacturer,product,,United States,1
+10564,Communications equipment; at manufacturer,product,,United States,1
+10565,Limited-service restaurants,product,,United States,1
+10566,Sporting and athletic goods; at manufacturer,product,,United States,1
+10567,"Highways, streets, and bridges",product,,United States,1
+10568,Newspapers; at publisher,product,,United States,1
+10569,"Chemicals (except basic chemicals, agrichemicals, polymers, paints, pharmaceuticals,soaps, cleaning compounds); at manufacturer",product,,United States,1
+10570,Compressed Gases; at manufacturer,product,,United States,1
+10571,Elementary and secondary schools,product,,United States,1
+10572,Wireless communications; at manufacturer,product,,United States,1
+10573,"Motorcycle, bicycle, and parts; at manufacturer",product,,United States,1
+10574,Other basic organic chemicals; at manufacturer,product,,United States,1
+10575,Industrial molds; at manufacturer,product,,United States,1
+10576,"Museums, historical sites, zoos, and parks",product,,United States,1
+10577,"Hydraulic pumps, motors, cylinders and actuators; at manufacturer",product,,United States,1
+10578,Commercial machinery repair,product,,United States,1
+10579,Paper; at manufacturer,product,,United States,1
+10580,Vehicle engines and engine parts; at manufacturer,product,,United States,1
+10581,Guided missiles and space vehicles; at manufacturer,product,,United States,1
+10582,Specialty transformers; at manufacturer,product,,United States,1
+10583,Other petroleum and coal products; at manufacturer,product,,United States,1
+10584,Coffee and tea; at manufacturer,product,,United States,1
+10585,Dog and cat food; at manufacturer,product,,United States,1
+10586,Rail transport,product,,United States,1
+10587,Small electrical appliances; at manufacturer,product,,United States,1
+10588,Vehicle repair,product,,United States,1
+10589,"Screws, nuts, and bolts; at manufacturer",product,,United States,1
+10590,Performances,product,,United States,1
+10591,"Special tools, dies, jigs, and fixtures; at manufacturer",product,,United States,1
+10592,Books; at publisher,product,,United States,1
+10593,"Metal pipe fittings, ball and roller bearings, industrial patterns, metal bath fixtures, other misc. fabricated metals; at manufacturer",product,,United States,1
+10594,"Directory, mailing list, and other publishers; at publisher",product,,United States,1
+10595,Railroad rolling stock; at manufacturer,product,,United States,1
+10596,Computer terminals and other computer peripheral equipment; at manufacturer,product,,United States,1
+10597,Food and beverage stores,product,,United States,1
+10598,Ground or treated minerals and earth; at manufacturer,product,,United States,1
+10599,Propulsion units and parts for space vehicles and guided missiles; at manufacturer,product,,United States,1
+10600,Air and gas compressors; at manufacturer,product,,United States,1
+10601,Dimensional stone; at mine,product,,United States,1
+10602,Management consulting,product,,United States,1
+10603,Printed circuit and electronic assembly; at manufacturer,product,,United States,1
+10604,"Air conditioning, refrigeration, and warm air heating equipment; at manufacturer",product,,United States,1
+10605,Institutional furniture; at manufacturer,product,,United States,1
+10606,Curtains and linens; at manufacturer,product,,United States,1
+10607,General merchandise stores,product,,United States,1
+10608,Federal government (nondefense),product,,United States,1
+10609,Multifamily homes,product,,United States,1
+10610,"Major home appliances (except ovens, stoves, refrigerators and laundry machines); at manufacturer",product,,United States,1
+10611,Health care buildings,product,,United States,1
+10612,Secondary copper products; at manufacturer,product,,United States,1
+10613,Office machinery; at manufacturer,product,,United States,1
+10614,"Plastic pipe, fittings, and sausage casings; at manufacturer",product,,United States,1
+10615,"Marketing research and all other miscellaneous professional, scientific, and technical services",product,,United States,1
+10616,Other primary nonferrous metals; at manufacturer,product,,United States,1
+10617,Fertilizers; at manufacturer,product,,United States,1
+10618,Computer storage device readers; at manufacturer,product,,United States,1
+10619,Lumber and treated lumber; at manufacturer,product,,United States,1
+10620,Snack foods; at manufacturer,product,,United States,1
+10621,"Cookies, crackers, pastas, and tortillas; at manufacturer",product,,United States,1
+10622,Material handling equipment; at manufacturer,product,,United States,1
+10623,Home refrigerators and freezers; at manufacturer,product,,United States,1
+10624,Other plastic products; at manufacturer,product,,United States,1
+10625,Dry-cleaning and laundry,product,,United States,1
+10626,Farm machinery and equipment; at manufacturer,product,,United States,1
+10627,Construction machinery; at manufacturer,product,,United States,1
+10628,Clay and ceramic products; at manufacturer,product,,United States,1
+10629,Nondepository credit intermediation and related activities,product,,United States,1
+10630,Sports,product,,United States,1
+10631,Surgical and medical instruments; at manufacturer,product,,United States,1
+10632,Medical laboratories,product,,United States,1
+10633,Clothing; at manufacturer,product,,United States,1
+10634,"Home furniture - Cabinets and non-wood, nonupholstered; at manufacturer",product,,United States,1
+10635,Travel arrangement and reservation,product,,United States,1
+10636,Lessors of nonfinancial intangible assets,product,,United States,1
+10637,Jewelry and silverware; at manufacturer,product,,United States,1
+10638,"Machinery for the paper, textile, food or other industries (except semiconductor machinery); at manufacturer",product,,United States,1
+10639,Passenger ground transport,product,,United States,1
+10640,"Other computer related services, including facilities management",product,,United States,1
+10641,"Lids, jars, bottle caps, other metal closures and crowns; at manufacturer",product,,United States,1
+10642,"Metal windows, doors, and architectural products; at manufacturer",product,,United States,1
+10643,Unrefined oil and gas; at extraction site,product,,United States,1
+10644,Wood kitchen cabinets and countertops; at manufacturer,product,,United States,1
+10645,Other animal food; at manufacturer,product,,United States,1
+10646,Internet publishing and broadcasting,product,,United States,1
+10647,Other nonresidential structures,product,,United States,1
+10648,Custom metal rolls; at manufacturer,product,,United States,1
+10649,Plastics; at manufacturer,product,,United States,1
+10650,Stationery; at manufacturer,product,,United States,1
+10651,Fluid milk and butter; at manufacturer,product,,United States,1
+10652,"Gaskets, seals, musical instruments, fasteners, brooms, brushes, mop and other misc. goods; at manufacturer",product,,United States,1
+10653,Other support services,product,,United States,1
+10654,Insurance agencies and brokerages,product,,United States,1
+10655,Carbon and graphite products; at manufacturer,product,,United States,1
+10656,Aluminum products; at manufacturer,product,,United States,1
+10657,Primary copper; at manufacturer,product,,United States,1
+10658,"Blood sugar, pregnancy, and other diagnostic test kits; at manufacturer",product,,United States,1
+10659,Storage batteries; at manufacturer,product,,United States,1
+10660,"Home furniture - wood, nonupholstered; at manufacturer",product,,United States,1
+10661,"Sanitary paper (tissues, napkins, diapers, etc.); at manufacturer",product,,United States,1
+10662,"Sand, gravel, clay, phosphate, other nonmetallic minerals; at mine",product,,United States,1
+10663,Fresh fruits and tree nuts; at farm,product,,United States,1
+10664,Vehicle seating and interior trim (upholstery); at manufacturer,product,,United States,1
+10665,"Mattresses, blinds and shades; at manufacturer",product,,United States,1
+10666,Other support activities for mining,product,,United States,1
+10667,"Soft drinks, bottled water, and ice; at manufacturer",product,,United States,1
+10668,"Metal coatings, engravings, and heat treatments; at manufacturer",product,,United States,1
+10669,Urethane and other foam products; at manufacturer,product,,United States,1
+10670,"Accounting, tax preparation, bookkeeping, and payroll",product,,United States,1
+10671,"Fiber, yarn, and thread; at manufacturer",product,,United States,1
+10672,Turbines and turbine generator sets; at manufacturer,product,,United States,1
+10673,Commercial equipment rental,product,,United States,1
+10674,Photography and photocopying equipment; at manufacturer,product,,United States,1
+10675,Outpatient healthcare,product,,United States,1
+10676,Breakfast cereals; at manufacturer,product,,United States,1
+10677,Other aircraft parts; at manufacturer,product,,United States,1
+10678,Glass and glass products; at manufacturer,product,,United States,1
+10679,Custom computer programming,product,,United States,1
+10680,Light bulbs; at manufacturer,product,,United States,1
+10681,Other educational services,product,,United States,1
+10682,"Books, newspapers, magazines, and other print media; at manufacturer",product,,United States,1
+10683,Other concrete products; at manufacturer,product,,United States,1
+10684,Heating equipment other than warm air furnaces; at manufacturer,product,,United States,1
+10685,Synthetic rubber and artificial and synthetic fibers; at manufacturer,product,,United States,1
+10686,Light fixtures; at manufacturer,product,,United States,1
+10687,Fabricated pipe and pipe fittings; at manufacturer,product,,United States,1
+10688,Wood pulp; at manufacturer,product,,United States,1
+10689,Lawn and garden equipment; at manufacturer,product,,United States,1
+10690,"Sugar, candy, and chocolate; at manufacturer",product,,United States,1
+10691,Aircraft engines and parts; at manufacturer,product,,United States,1
+10692,Other nonmetallic mineral products; at manufacturer,product,,United States,1
+10693,Radio and television,product,,United States,1
+10694,Secondary steel products; at manufacturer,product,,United States,1
+10695,"Copper, nickel, lead, and zinc; at mine",product,,United States,1
+10696,Computers; at manufacturer,product,,United States,1
+10697,Asphalt shingles; at manufacturer,product,,United States,1
+10698,Finished and coated fabric; at manufacturer,product,,United States,1
+10699,Home furniture - upholstered; at manufacturer,product,,United States,1
+10700,Other secondary nonferrous metal products; at manufacturer,product,,United States,1
+10701,"Independent artists, writers, and performers",product,,United States,1
+10702,Vaccines and other biological medical products; at manufacturer,product,,United States,1
+10703,"Grantmaking, giving, and social advocacy organizations",product,,United States,1
+10704,Office supplies (not paper); at manufacturer,product,,United States,1
+10705,Individual and family services,product,,United States,1
+10706,Amusement parks and arcades,product,,United States,1
+10707,Other engine equipment; at manufacturer,product,,United States,1
+10708,Machine shops; at manufacturer,product,,United States,1
+10709,Veterinarians,product,,United States,1
+10710,"Residential mental retardation, mental health, substance abuse and other facilities",product,,United States,1
+10711,Automatic controls for HVAC and refrigeration equipment; at manufacturer,product,,United States,1
+10712,Power boilers and heat exchangers; at manufacturer,product,,United States,1
+10713,Cardboard containers; at manufacturer,product,,United States,1
+10714,"Golf courses, marinas, ski resorts, fitness and other rec centers and industries",product,,United States,1
+10715,"Pet care, photofinishing, parking and other sundry services",product,,United States,1
+10716,"Colleges, universities, junior colleges, and professional schools",product,,United States,1
+10717,Noncomparable imports,product,,United States,1
+10718,Advertising and public relations,product,,United States,1
+10719,Animal farms and aquaculture ponds (except cattle and poultry),product,,United States,1
+10720,Cattle ranches and feedlots,product,,United States,1
+10721,Timber and raw forest products; at forest,product,,United States,1
+10722,Air transport,product,,United States,1
+10723,Hotels and campgrounds,product,,United States,1
+10724,"Satellite, telecommunications resellers, and all other telecommunications",product,,United States,1
+10725,Switchgear and switchboards; at manufacturer,product,,United States,1
+10726,"Electronic capacitors, resistors, coils, transformers, connectors and other components (except  semiconductors and printed circuit assemblies); at manufacturer",product,,United States,1
+10727,Valve and fittings (except for plumbing); at manufacturer,product,,United States,1
+10728,Vehicle bodies; at manufacturer,product,,United States,1
+10729,"Architectural, engineering, and related services",product,,United States,1
+10730,Investigation and security,product,,United States,1
+10731,"Pickup trucks, vans, and SUVs; at manufacturer",product,,United States,1
+10732,Child day care,product,,United States,1
+10733,Seafood; at manufacturer,product,,United States,1
+10734,Other real estate,product,,United States,1
+10735,"Fresh soybeans, canola, flaxseeds, and other oilseeds; at farm",product,,United States,1
+10736,Bread and other baked goods; at manufacturer,product,,United States,1
+10737,Carpets and rugs; at manufacturer,product,,United States,1
+10738,Home laundry machines; at manufacturer,product,,United States,1
+10739,Wild-caught fish and game; at place of capture,product,,United States,1
+10740,Corn products; at manufacturer,product,,United States,1
+10741,"Dolls, toys, and games; at manufacturer",product,,United States,1
+10742,"Ammunition, arms, ordnance, and related accessories; at manufacturer",product,,United States,1
+10743,"Primary iron, steel, and ferroalloy products; at manufacturer",product,,United States,1
+10744,Securities and commodities brokerage and exchanges,product,,United States,1
+10745,Other rubber products; at manufacturer,product,,United States,1
+10746,"Welding and Soldering Equipment, Scales and Balances, and other general purpose machinery; at manufacturer",product,,United States,1
+10747,Utilities buildings and infrastructure,product,,United States,1
+10748,Physicians,product,,United States,1
+10749,Industrial process variable instruments; at manufacturer,product,,United States,1
+10750,Home cooking appliances; at manufacturer,product,,United States,1
+10751,"News syndicates, libraries, archives, Internet publishing and all other information services",product,,United States,1
+10752,Leather; at manufacturer,product,,United States,1
+10753,All other food and drinking places,product,,United States,1
+10754,Travel trailer and campers; at manufacturer,product,,United States,1
+10755,Military armored vehicles and tanks; at manufacturer,product,,United States,1
+10756,Industrial process furnaces and ovens; at manufacturer,product,,United States,1
+10757,Medicinal and botanical ingredients; at manufacturer,product,,United States,1
+10758,"Plastic bags, films, and sheets; at manufacturer",product,,United States,1
+10759,Other vehicle parts; at manufacturer,product,,United States,1
+10760,"Iron, gold, silver, and other metal ores; at mine",product,,United States,1
+10761,Dentists,product,,United States,1
+10762,"Wooden windows, door, and flooring; at manufacturer",product,,United States,1
+10763,Consumer goods and general rental centers,product,,United States,1
+10764,Vehicles and parts sales,product,,United States,1
+10765,"Greenhouse crops, mushrooms, nurseries, and flowers; at farm",product,,United States,1
+10766,"Metal hinges, keys, lock, and other hardware; at manufacturer",product,,United States,1
+10767,Healthcare practitioners (except physicians and dentists),product,,United States,1
+10768,Packaged poultry; at manufacturer,product,,United States,1
+10769,Dental equipment and supplies; at manufacturer,product,,United States,1
+10770,"Motor vehicle steering, suspension components (except spring), and brake systems; at manufacturer",product,,United States,1
+10771,Wireless telecommunications,product,,United States,1
+10772,Residential building repair and maintanence,product,,United States,1
+10773,"Fresh wheat, corn, rice, and other grains; at farm",product,,United States,1
+10774,Dairies,product,,United States,1
+10775,Other basic inorganic chemicals; at manufacturer,product,,United States,1
+10776,Semiconductors; at manufacturer,product,,United States,1
+10777,PYRACLOSTROBIN,elementary,,,1
+10778,Zineb,elementary,,,1
+10779,Cyprodinil,elementary,,,1
+10780,ACETAMIPRID,elementary,,,1
+10781,Aldrin,elementary,,,1
+10782,"Ethane, 1,2-dichloro-",elementary,,,1
+10783,Dimethoate,elementary,,,1
+10784,1-Methyl-2-pyrrolidinone,elementary,,,1
+10785,Cyfluthrin,elementary,,,1
+10786,TETRACONAZOLE,elementary,,,1
+10787,"Dinitrotoluene, technical grade (2,4 (77%)- and 2,6 (19%)-)",elementary,,,1
+10788,IMAZAPIC-AMMONIUM,elementary,,,1
+10789,KANTOR,elementary,,,1
+10790,PSEUDO. FLUORES A506,elementary,,,1
+10791,N-Methylolacrylamide,elementary,,,1
+10792,Methoxychlor,elementary,,,1
+10793,2-Mercaptobenzothiazole,elementary,,,1
+10794,Tri-allate,elementary,,,1
+10795,sodium dimethyldithiocarbamate,elementary,,,1
+10796,Phenanthrene,elementary,,,1
+10797,Fluazinam,elementary,,,1
+10798,terbacil,elementary,,,1
+10799,Stone,elementary,,,1
+10800,"ethane, 1,2-dichloro-",elementary,,,1
+10801,FLONICAMID,elementary,,,1
+10802,M-CRESOL,elementary,,,1
+10803,MONURON,elementary,,,1
+10804,Platinum,elementary,,,1
+10805,Maneb,elementary,,,1
+10806,Xylene,elementary,,,1
+10807,Rimsulfuron,elementary,,,1
+10808,"MCPA, 2-ETHYLHEXYL",elementary,,,1
+10809,avermectin B1,elementary,,,1
+10810,GAMMA-CYHALOTHRIN,elementary,,,1
+10811,Thiram,elementary,,,1
+10812,"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",elementary,,,1
+10813,ETHYL ACRYLATE,elementary,,,1
+10814,fluorene,elementary,,,1
+10815,GIBBERELLIC ACID,elementary,,,1
+10816,ABATE,elementary,,,1
+10817,"Occupation, traffic area, rail network",elementary,,,1
+10818,TETRACONAZOLE,elementary,,,1
+10819,HYDRAZOBENZENE,elementary,,,1
+10820,"2,4-D, BUTOXYETHYL ESTER",elementary,,,1
+10821,METRAFENONE,elementary,,,1
+10822,"Propane, 1,2-dichloro-",elementary,,,1
+10823,Cyfluthrin,elementary,,,1
+10824,PETROLEUM DISTILLATE,elementary,,,1
+10825,FLUOPYRAM,elementary,,,1
+10826,EPTC,elementary,,,1
+10827,Bifenthrin,elementary,,,1
+10828,Propane sultone,elementary,,,1
+10829,4-nitroaniline,elementary,,,1
+10830,Sulfosulfuron,elementary,,,1
+10831,acrylonitrile,elementary,,,1
+10832,"particulates, < 10 um",elementary,,,1
+10833,"Dibenz(a,h)anthracene",elementary,,,1
+10834,Iron,elementary,,,1
+10835,Nickel,elementary,,,1
+10836,Fluorspar,elementary,,,1
+10837,Barite,elementary,,,1
+10838,"2,2,4-trimethylpentane",elementary,,,1
+10839,"Chromium, ion",elementary,,,1
+10840,EMAMECTIN BENZOATE,elementary,,,1
+10841,HCFC-142b,elementary,,,1
+10842,Boron,elementary,,,1
+10843,Iprodion,elementary,,,1
+10844,Phosphine,elementary,,,1
+10845,Perlite,elementary,,,1
+10846,BIFENAZATE,elementary,,,1
+10847,"Energy, biomass",elementary,,,1
+10848,diquat dibromide,elementary,,,1
+10849,DIALLATE,elementary,,,1
+10850,Aniline,elementary,,,1
+10851,Fenpropathrin,elementary,,,1
+10852,"Benzo(g,h,i)perylene",elementary,,,1
+10853,DINOTEFURAN,elementary,,,1
+10854,copper,elementary,,,1
+10855,Copper (+II),elementary,,,1
+10856,"2,2-BIS(4-HYDROXY-3,5-DIBROMOPHENYL)PROPANE",elementary,,,1
+10857,"S,S,S-tributyl phosphorotrithioate",elementary,,,1
+10858,METCONAZOLE,elementary,,,1
+10859,HALON 1301,elementary,,,1
+10860,Flutolanil,elementary,,,1
+10861,FLUCARBAZONE-SODIUM,elementary,,,1
+10862,CLODINAFOP-PROPARGIL,elementary,,,1
+10863,Anthracene,elementary,,,1
+10864,o-cresol,elementary,,,1
+10865,Cobalt,elementary,,,1
+10866,Azadirachtin,elementary,,,1
+10867,"4,4'-METHYLENEBIS(2-CHLOROANALINE)",elementary,,,1
+10868,DIMETHYL TETRACHLOROTEREPHTHALATE,elementary,,,1
+10869,isoprene,elementary,,,1
+10870,Malathion,elementary,,,1
+10871,ALLYL CHLORIDE,elementary,,,1
+10872,"2,4-DINITROPHENOL",elementary,,,1
+10873,Pymetrozine,elementary,,,1
+10874,"NEEM OIL, CLAR. HYD.",elementary,,,1
+10875,hydroquinone,elementary,,,1
+10876,PHENOTHRIN,elementary,,,1
+10877,"Occupation, annual crop",elementary,,,1
+10878,Pyridaben,elementary,,,1
+10879,TRIFLUMIZOLE,elementary,,,1
+10880,"NAA, POTASSIUM SALT",elementary,,,1
+10881,barium,elementary,,,1
+10882,Bifenthrin,elementary,,,1
+10883,Creosol,elementary,,,1
+10884,oxadiazon,elementary,,,1
+10885,dicyclopentadiene,elementary,,,1
+10886,"MCPA, ISOOCTYL ESTER",elementary,,,1
+10887,FLUBENDIAMIDE,elementary,,,1
+10888,METRAFENONE,elementary,,,1
+10889,methanol,elementary,,,1
+10890,Chlorsulfuron,elementary,,,1
+10891,Triasulfuron,elementary,,,1
+10892,Norflurazon,elementary,,,1
+10893,M-DINITROBENZENE,elementary,,,1
+10894,Pyriproxyfen,elementary,,,1
+10895,manganese,elementary,,,1
+10896,FOMESAFEN SODIUM,elementary,,,1
+10897,Propylene oxide,elementary,,,1
+10898,Butadiene,elementary,,,1
+10899,Diuron,elementary,,,1
+10900,"Water, fresh",elementary,,,1
+10901,Gypsum,elementary,,,1
+10902,HYDROFLUORIC ACID,elementary,,,1
+10903,Prosulfuron,elementary,,,1
+10904,Thiabendazole,elementary,,,1
+10905,Cobalt,elementary,,,1
+10906,2-PHENYLPHENOL,elementary,,,1
+10907,Saccharin,elementary,,,1
+10908,CYFLUFENAMID,elementary,,,1
+10909,BROMOXYNIL OCTANOATE,elementary,,,1
+10910,Garnet,elementary,,,1
+10911,DIMETHENAMID-P,elementary,,,1
+10912,Buprofezin,elementary,,,1
+10913,Dimethoate,elementary,,,1
+10914,IMAZOSULFURON,elementary,,,1
+10915,"toluene-2,4-diisocyante",elementary,,,1
+10916,Methomyl,elementary,,,1
+10917,Z-8-DODECEN ACETATE,elementary,,,1
+10918,MCPB,elementary,,,1
+10919,FLUOXASTROBIN,elementary,,,1
+10920,"2,4/2,6-toluenediisocyanate (mixture)",elementary,,,1
+10921,HEXAMETHYLPHOSPHORAMIDE,elementary,,,1
+10922,Copper (+II),elementary,,,1
+10923,hexachloroethane,elementary,,,1
+10924,PROPOXYCARBAZONE-SOD,elementary,,,1
+10925,"Methane, difluoro-, HFC-32",elementary,,,1
+10926,Fenpropathrin,elementary,,,1
+10927,Kresoxim-methyl,elementary,,,1
+10928,"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",elementary,,,1
+10929,"1,1-DICHLOROETHANE",elementary,,,1
+10930,Prosulfuron,elementary,,,1
+10931,REYNOUTRIA SACHALINE,elementary,,,1
+10932,Methyl acrylate,elementary,,,1
+10933,AMETOCTRADIN,elementary,,,1
+10934,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",elementary,,,1
+10935,silver,elementary,,,1
+10936,cyclohexane,elementary,,,1
+10937,TOLFENPYRAD,elementary,,,1
+10938,HYDROQUINONE,elementary,,,1
+10939,Flumioxazin,elementary,,,1
+10940,Cumene hydroperoxide,elementary,,,1
+10941,BENSULIDE,elementary,,,1
+10942,para-xylene,elementary,,,1
+10943,Silver,elementary,,,1
+10944,NICOTINE,elementary,,,1
+10945,"Benzene, hexachloro-",elementary,,,1
+10946,Acrylonitrile,elementary,,,1
+10947,NITRAPYRIN,elementary,,,1
+10948,"PYRENE, 1-NITRO-",elementary,,,1
+10949,Nitrobenzene,elementary,,,1
+10950,"METHYLCARBAMODITHIOIC ACID, MONOPOTASSIUM SALT",elementary,,,1
+10951,FENAMIDONE,elementary,,,1
+10952,thallium,elementary,,,1
+10953,Piperonyl butoxide,elementary,,,1
+10954,MCPB,elementary,,,1
+10955,MONO-POTASSIUM SALT,elementary,,,1
+10956,"methane, chlorodifluoro-, hcfc-22",elementary,,,1
+10957,"1,1-DICHLOROETHYLENE",elementary,,,1
+10958,"methane, monochloro-, r-40",elementary,,,1
+10959,Pronamide,elementary,,,1
+10960,Chlorpyrifos,elementary,,,1
+10961,avermectin B1,elementary,,,1
+10962,"Methane, bromo-, Halon 1001",elementary,,,1
+10963,"Propane, 1,1,1,3,3,3-hexafluoro-, HCFC-236fa",elementary,,,1
+10964,Sodium formate,elementary,,,1
+10965,"1H-PURIN-6-AMINE, N-(PHENYLMETHYL)-",elementary,,,1
+10966,"2,4-D, DIMETHYLAMINE SALT",elementary,,,1
+10967,N-(3-CHLORALLYL) HEXAMINIUM CHLORIDE,elementary,,,1
+10968,"Occupation, pasture and meadow, extensive",elementary,,,1
+10969,DNOC,elementary,,,1
+10970,EMAMECTIN BENZOATE,elementary,,,1
+10971,vanadium,elementary,,,1
+10972,"1,4-dichlorobenzene",elementary,,,1
+10973,Dimethoate,elementary,,,1
+10974,COPPER OXYCHLORIDE,elementary,,,1
+10975,Lithium,elementary,,,1
+10976,ORTHOSULFAMURON,elementary,,,1
+10977,"2,4-D",elementary,,,1
+10978,o-xylene,elementary,,,1
+10979,Metam-sodium,elementary,,,1
+10980,Metam-sodium,elementary,,,1
+10981,Metam-sodium,elementary,,,1
+10982,Tri-allate,elementary,,,1
+10983,Tri-allate,elementary,,,1
+10984,PYROXASULFONE,elementary,,,1
+10985,BENZ(A)ACRIDINE,elementary,,,1
+10986,Azoxystrobin,elementary,,,1
+10987,1-Naphthaleneacetamide,elementary,,,1
+10988,fluorine,elementary,,,1
+10989,Metolachlor,elementary,,,1
+10990,cadmium,elementary,,,1
+10991,CLORANSULAM-METHYL,elementary,,,1
+10992,Thiophanat-methyl,elementary,,,1
+10993,tebuthiuron,elementary,,,1
+10994,KAOLIN,elementary,,,1
+10995,MONO-POTASSIUM SALT,elementary,,,1
+10996,Endosulfan,elementary,,,1
+10997,"MCPA, 2-ETHYLHEXYL",elementary,,,1
+10998,"2,4-D, ISOPROPYLAMINE SALT",elementary,,,1
+10999,Carfentrazone ethyl ester,elementary,,,1
+11000,vinyl acetate,elementary,,,1
+11001,benzidine,elementary,,,1
+11002,"IMAZAQUIN, MON. SALT",elementary,,,1
+11003,DICAMBA SODIUM SALT,elementary,,,1
+11004,Phosphorus,elementary,,,1
+11005,SEC-BUTYL ALCOHOL,elementary,,,1
+11006,methyl methacrylate,elementary,,,1
+11007,CHLOROACETONITRILE,elementary,,,1
+11008,SAFROLE,elementary,,,1
+11009,POTASSIUM PHOSPHATE,elementary,,,1
+11010,Coal,elementary,,,1
+11011,"IMAZAQUIN, MON. SALT",elementary,,,1
+11012,SPINOSAD,elementary,,,1
+11013,acenaphthene,elementary,,,1
+11014,"Phenol, 2,4-dichloro",elementary,,,1
+11015,Sethoxydim,elementary,,,1
+11016,Isoxaflutole,elementary,,,1
+11017,Fipronil,elementary,,,1
+11018,Picloram,elementary,,,1
+11019,EMAMECTIN BENZOATE,elementary,,,1
+11020,Dinitrogen monoxide,elementary,,,1
+11021,phenanthrene,elementary,,,1
+11022,BENEFIN,elementary,,,1
+11023,Methane,elementary,,,1
+11024,beryllium,elementary,,,1
+11025,ozone,elementary,,,1
+11026,Quintozene,elementary,,,1
+11027,Prometryn,elementary,,,1
+11028,HCFC-21,elementary,,,1
+11029,hydrogen sulfide,elementary,,,1
+11030,SULFUR,elementary,,,1
+11031,Thidiazuron,elementary,,,1
+11032,"Propene, 1,3-dichloro-",elementary,,,1
+11033,N-NITROSO-N-ETHYLUREA,elementary,,,1
+11034,Quintozene,elementary,,,1
+11035,"particulates, < 2.5 um",elementary,,,1
+11036,3-Iodo-2-propynyl butylcarbamate,elementary,,,1
+11037,MSMA,elementary,,,1
+11038,catechol,elementary,,,1
+11039,Fluroxypyr,elementary,,,1
+11040,QUIZALOFOP-P-ETHYL,elementary,,,1
+11041,COPPER RESINATE,elementary,,,1
+11042,BOSCALID,elementary,,,1
+11043,"2-Chloro-1,1,1-trifluoroethane",elementary,,,1
+11044,CYAZOFAMID,elementary,,,1
+11045,Bisphenol A,elementary,,,1
+11046,CALCIUM POLYSULFIDE,elementary,,,1
+11047,"S,S,S-tributyl phosphorotrithioate",elementary,,,1
+11048,hydrogen fluoride,elementary,,,1
+11049,"2,4-Diaminotoluene",elementary,,,1
+11050,INDAZIFLAM,elementary,,,1
+11051,PROTHIOCONAZOLE,elementary,,,1
+11052,Starane,elementary,,,1
+11053,"Benzene, pentachloro-",elementary,,,1
+11054,METALDEHYDE (TETRAMER),elementary,,,1
+11055,3-methylcholanthrene,elementary,,,1
+11056,fluoranthene,elementary,,,1
+11057,Ethoprop,elementary,,,1
+11058,Feldspar,elementary,,,1
+11059,BISPYRIBAC-SODIUM,elementary,,,1
+11060,Quintozene,elementary,,,1
+11061,Sethoxydim,elementary,,,1
+11062,"2,2-BIS(4-HYDROXY-3,5-DIBROMOPHENYL)PROPANE",elementary,,,1
+11063,"Occupation, traffic area, road network",elementary,,,1
+11064,Phorate,elementary,,,1
+11065,QUINCLORAC DIMETHYLAMINE SALT,elementary,,,1
+11066,formic acid,elementary,,,1
+11067,Difenoconazole,elementary,,,1
+11068,"1,1,1,2-Tetrachloroethane",elementary,,,1
+11069,IMAZAQUIN,elementary,,,1
+11070,THIACLOPRID,elementary,,,1
+11071,THIFENSULFURON,elementary,,,1
+11072,"Ethane, pentafluoro-, HFC-125",elementary,,,1
+11073,Methomyl,elementary,,,1
+11074,furan,elementary,,,1
+11075,Simazine,elementary,,,1
+11076,propargyl alcohol,elementary,,,1
+11077,benzene,elementary,,,1
+11078,DIAMINOTOLUENES,elementary,,,1
+11079,PARAQUAT DICHLORIDE,elementary,,,1
+11080,Fomesafen,elementary,,,1
+11081,Titanium,elementary,,,1
+11082,"3,3'-DICHLOROBENZIDINE DIHYDROCHLORIDE",elementary,,,1
+11083,manganese,elementary,,,1
+11084,Nitrobenzene,elementary,,,1
+11085,Metalaxyl-M,elementary,,,1
+11086,bromodichloromethane,elementary,,,1
+11087,Propargite,elementary,,,1
+11088,"Ethene, chloro-",elementary,,,1
+11089,Metalaxyl-M,elementary,,,1
+11090,Cyclanilide,elementary,,,1
+11091,Hexythiazox,elementary,,,1
+11092,NITROMETHANE,elementary,,,1
+11093,terbacil,elementary,,,1
+11094,"1,4-DICHLORO-2-BUTENE",elementary,,,1
+11095,antimony,elementary,,,1
+11096,"NAA, POTASSIUM SALT",elementary,,,1
+11097,resmethrin,elementary,,,1
+11098,Dodine,elementary,,,1
+11099,CLORANSULAM-METHYL,elementary,,,1
+11100,Buprofezin,elementary,,,1
+11101,benz[a]anthracene,elementary,,,1
+11102,Xylene,elementary,,,1
+11103,FLUTRIAFOL,elementary,,,1
+11104,SPINETORAM-L,elementary,,,1
+11105,Bromoxynil,elementary,,,1
+11106,CHLORANTRANILIPROLE,elementary,,,1
+11107,Propargite,elementary,,,1
+11108,Naled,elementary,,,1
+11109,Triasulfuron,elementary,,,1
+11110,2-chlorophenol,elementary,,,1
+11111,Acrylonitrile,elementary,,,1
+11112,Methidathion,elementary,,,1
+11113,ALUMINUM OXIDE,elementary,,,1
+11114,MONOCARBAMIDE DIHYD.,elementary,,,1
+11115,Metalaxyl-M,elementary,,,1
+11116,CGA 245704,elementary,,,1
+11117,MEPIQUAT PENTABORATE,elementary,,,1
+11118,AMETOCTRADIN,elementary,,,1
+11119,Diuron,elementary,,,1
+11120,Tebuconazole,elementary,,,1
+11121,Carbaryl,elementary,,,1
+11122,Dimethipin,elementary,,,1
+11123,TETRADECANOL,elementary,,,1
+11124,Propiconazole,elementary,,,1
+11125,allylamine,elementary,,,1
+11126,Thiabendazole,elementary,,,1
+11127,Diazinon,elementary,,,1
+11128,ACRYLAMIDE,elementary,,,1
+11129,4-CHLOROANILINE,elementary,,,1
+11130,ETHYLENETHIOUREA,elementary,,,1
+11131,"1,4-dioxane",elementary,,,1
+11132,DODECADIEN-1-OL,elementary,,,1
+11133,Tefluthrin,elementary,,,1
+11134,"(2,4-DICHLOROPHENOXY)ACETIC ACID COMPD. WITH 2,2-IMINOBIS[ETHANOL] (1:1)",elementary,,,1
+11135,copper,elementary,,,1
+11136,Tebuconazole,elementary,,,1
+11137,FLUTRIAFOL,elementary,,,1
+11138,4-nitrophenol,elementary,,,1
+11139,ethylenediaminetetraacetic acid,elementary,,,1
+11140,EPTC,elementary,,,1
+11141,Pyrimethanil,elementary,,,1
+11142,PYROXSULAM,elementary,,,1
+11143,NOVALURON,elementary,,,1
+11144,PETROLEUM DISTILLATE,elementary,,,1
+11145,sodium dimethyldithiocarbamate,elementary,,,1
+11146,Fluazinam,elementary,,,1
+11147,Clethodim,elementary,,,1
+11148,IMAZAPIC,elementary,,,1
+11149,THIAMETHOXAM,elementary,,,1
+11150,naphthalene,elementary,,,1
+11151,ZINC PHOSPHIDE,elementary,,,1
+11152,TRIFLOXYSTROBIN,elementary,,,1
+11153,benzene,elementary,,,1
+11154,lead,elementary,,,1
+11155,Thioacetamide,elementary,,,1
+11156,ALUMINUM OXIDE,elementary,,,1
+11157,Flumiclorac-pentyl,elementary,,,1
+11158,Thiram,elementary,,,1
+11159,OXYTETRACYCLINE CALC,elementary,,,1
+11160,cobalt,elementary,,,1
+11161,"Phthalate, dioctyl-",elementary,,,1
+11162,"Methane, tetrafluoro-, R-14",elementary,,,1
+11163,QUINOLINE,elementary,,,1
+11164,Pendimethalin,elementary,,,1
+11165,Dichlobenil,elementary,,,1
+11166,(4-CHLORO-2-METHYLPHENOXY)ACETIC ACID COMPD. WITH N-METHYLMETHANAMINE (1:1),elementary,,,1
+11167,Cyromazine,elementary,,,1
+11168,ZETA-CYPERMETHRIN,elementary,,,1
+11169,Tribenuron-methyl,elementary,,,1
+11170,"1,2,4-trimethylbenzene",elementary,,,1
+11171,Benzo(b)fluoranthene,elementary,,,1
+11172,"7-OXABICYCLO[2,2,1]HEPTANE-2,3-DICARBOXYLIC ACID, DIPOTASSIUM SALT",elementary,,,1
+11173,"Phthalate, dibutyl-",elementary,,,1
+11174,PROPOXYCARBAZONE-SOD,elementary,,,1
+11175,Sulfur hexafluoride,elementary,,,1
+11176,Propanal,elementary,,,1
+11177,STREPTOMYCIN SULFATE,elementary,,,1
+11178,Difenoconazole,elementary,,,1
+11179,Dichlobenil,elementary,,,1
+11180,SODIUM CHLORATE,elementary,,,1
+11181,"Water, fresh",elementary,,,1
+11182,"Occupation, mineral extraction site",elementary,,,1
+11183,BROMODICHLOROMETHANE,elementary,,,1
+11184,Dicofol,elementary,,,1
+11185,Vinyl acetate,elementary,,,1
+11186,"Ethene, trichloro-",elementary,,,1
+11187,DICHLOROPROPENE,elementary,,,1
+11188,HCFC-132b,elementary,,,1
+11189,"2,4-D, SODIUM SALT",elementary,,,1
+11190,Peat,elementary,,,1
+11191,Carbon disulfide,elementary,,,1
+11192,METHANONE,elementary,,,1
+11193,ZIRAM,elementary,,,1
+11194,BENSULIDE,elementary,,,1
+11195,2-NITROPROPANE,elementary,,,1
+11196,OXYTETRACYCLINE CALC,elementary,,,1
+11197,Potassium,elementary,,,1
+11198,Cyclanilide,elementary,,,1
+11199,phenol,elementary,,,1
+11200,2-(2-ETHOXYETHOXY) ETHYL ACETATE,elementary,,,1
+11201,COPPER OXYCHLORIDE,elementary,,,1
+11202,Methyl acrylate,elementary,,,1
+11203,chlorine,elementary,,,1
+11204,Polychlorinated biphenyls,elementary,,,1
+11205,"Water, saline",elementary,,,1
+11206,Imidacloprid,elementary,,,1
+11207,COPPER RESINATE,elementary,,,1
+11208,dicyclopentadiene,elementary,,,1
+11209,ACIFLUORFEN-SODIUM,elementary,,,1
+11210,Dihydrosafrole,elementary,,,1
+11211,aluminum-phosphide,elementary,,,1
+11212,THIAMETHOXAM,elementary,,,1
+11213,Propoxur,elementary,,,1
+11214,"Cresol, o-",elementary,,,1
+11215,"Occupation, permanent crop, fruit, intensive",elementary,,,1
+11216,toluene,elementary,,,1
+11217,"2,4-D, DIMETHYLAMINE SALT",elementary,,,1
+11218,"Benzo(b,j,k)fluoranthene",elementary,,,1
+11219,ACIFLUORFEN-SODIUM,elementary,,,1
+11220,Nitrobenzene,elementary,,,1
+11221,terbacil,elementary,,,1
+11222,PHOSPHOROUS ACID,elementary,,,1
+11223,Maleic hydrazide,elementary,,,1
+11224,PYROXSULAM,elementary,,,1
+11225,Myclobutanil,elementary,,,1
+11226,ORTHOSULFAMURON,elementary,,,1
+11227,Hydrazine,elementary,,,1
+11228,Trifluralin,elementary,,,1
+11229,"Hydrocarbons, aromatic",elementary,,,1
+11230,Polychlorinated biphenyls,elementary,,,1
+11231,COPPER HYDROXIDE,elementary,,,1
+11232,TETRACONAZOLE,elementary,,,1
+11233,Chloroform,elementary,,,1
+11234,t-Butyl methyl ether,elementary,,,1
+11235,Propanil,elementary,,,1
+11236,Nicosulfuron,elementary,,,1
+11237,"Benzene, ethyl-",elementary,,,1
+11238,"Methane, bromo-, Halon 1001",elementary,,,1
+11239,ACETAMIPRID,elementary,,,1
+11240,Diethylene glycol butyl ether,elementary,,,1
+11241,Flumiclorac-pentyl,elementary,,,1
+11242,DIMETHENAMID-P,elementary,,,1
+11243,methylene diphenyl diisocyanate,elementary,,,1
+11244,"2,4/2,6-toluenediisocyanate (mixture)",elementary,,,1
+11245,COPPER SULFATE,elementary,,,1
+11246,Dodine,elementary,,,1
+11247,"1,4-BENZOQUINONE",elementary,,,1
+11248,Nicosulfuron,elementary,,,1
+11249,Fluometuron,elementary,,,1
+11250,"IMAZETHAPYR, AMMON.",elementary,,,1
+11251,Chlorothalonil,elementary,,,1
+11252,PICOXYSTROBIN,elementary,,,1
+11253,Mica,elementary,,,1
+11254,Azoxystrobin,elementary,,,1
+11255,dimethyl formamide,elementary,,,1
+11256,Bis(2-chloroethyl)ether,elementary,,,1
+11257,NABAM,elementary,,,1
+11258,HYDROGEN SULFIDE,elementary,,,1
+11259,"NEEM OIL, CLAR. HYD.",elementary,,,1
+11260,"methane, dichloro-, hcc-30",elementary,,,1
+11261,Dimethylamine,elementary,,,1
+11262,o-toluidine,elementary,,,1
+11263,Fluazifop-p-butyl,elementary,,,1
+11264,ETOXAZOLE,elementary,,,1
+11265,TRIFLOXYSULFURON-SOD,elementary,,,1
+11266,Pumice,elementary,,,1
+11267,ethylene oxide,elementary,,,1
+11268,Indoxacarb,elementary,,,1
+11269,"2,4-DB",elementary,,,1
+11270,"Methane, dichlorodifluoro-, CFC-12",elementary,,,1
+11271,Triasulfuron,elementary,,,1
+11272,PHENYTOIN,elementary,,,1
+11273,NITROGLYCERIN,elementary,,,1
+11274,selenium,elementary,,,1
+11275,Phosmet,elementary,,,1
+11276,Bromine,elementary,,,1
+11277,"NAA, AMMONIUM SALT",elementary,,,1
+11278,Ethylene glycol monoethyl ether,elementary,,,1
+11279,Ethofumesate,elementary,,,1
+11280,"1,2-phenylenediamine",elementary,,,1
+11281,Tribenuron-methyl,elementary,,,1
+11282,PYRIDINE,elementary,,,1
+11283,TRALKOXYDIM,elementary,,,1
+11284,Methoxychlor,elementary,,,1
+11285,BIFENAZATE,elementary,,,1
+11286,DIMETHENAMID-P,elementary,,,1
+11287,ACRYLAMIDE,elementary,,,1
+11288,Chlorsulfuron,elementary,,,1
+11289,Urethane,elementary,,,1
+11290,THIFENSULFURON,elementary,,,1
+11291,2-Propanol,elementary,,,1
+11292,THIFENSULFURON,elementary,,,1
+11293,DMTT (DAZOMET),elementary,,,1
+11294,ZINC PHOSPHIDE,elementary,,,1
+11295,maleic anhydride,elementary,,,1
+11296,Propylene oxide,elementary,,,1
+11297,Chloropicrin,elementary,,,1
+11298,Imazethapyr,elementary,,,1
+11299,2-methylnaphthalene,elementary,,,1
+11300,DICHLOROPROPENE,elementary,,,1
+11301,"Propene, 1,3-dichloro-",elementary,,,1
+11302,"Benzo(g,h,i)perylene",elementary,,,1
+11303,Benzyl chloride,elementary,,,1
+11304,Thiophanat-methyl,elementary,,,1
+11305,Pendimethalin,elementary,,,1
+11306,"1H-PURIN-6-AMINE, N-(PHENYLMETHYL)-",elementary,,,1
+11307,"Benzo(g,h,i)perylene",elementary,,,1
+11308,Esfenvalerate,elementary,,,1
+11309,Fluroxypyr,elementary,,,1
+11310,Dicloran,elementary,,,1
+11311,"Ethene, tetrachloro-",elementary,,,1
+11312,Tribenuron-methyl,elementary,,,1
+11313,Bensulfuron methyl ester,elementary,,,1
+11314,Cyprodinil,elementary,,,1
+11315,acetaldehyde,elementary,,,1
+11316,CLOFENTEZINE,elementary,,,1
+11317,"Butane, perfluorocyclo-, PFC-318",elementary,,,1
+11318,methanol,elementary,,,1
+11319,CHLORIMURON ETHYL,elementary,,,1
+11320,4-CHLOROANILINE,elementary,,,1
+11321,p-phenylenediamine,elementary,,,1
+11322,GIBBERELLINS A4A7,elementary,,,1
+11323,DIFLUFENZOPYR-SODIUM,elementary,,,1
+11324,THIAMETHOXAM,elementary,,,1
+11325,Thiodicarb,elementary,,,1
+11326,Benzo(a)anthracene,elementary,,,1
+11327,Sodium carbonate,elementary,,,1
+11328,DICAMBA SODIUM SALT,elementary,,,1
+11329,Benzo(k)fluoranthene,elementary,,,1
+11330,"2,4-D, ISOOCTYL ESTER",elementary,,,1
+11331,Methidathion,elementary,,,1
+11332,NITROGLYCERIN,elementary,,,1
+11333,Ametryn,elementary,,,1
+11334,CHLOROPRENE,elementary,,,1
+11335,PROTHIOCONAZOLE,elementary,,,1
+11336,FENAMIDONE,elementary,,,1
+11337,"Chrysene, 5-methyl-",elementary,,,1
+11338,2-METHOXYETHANOL,elementary,,,1
+11339,Methyl iodide,elementary,,,1
+11340,Fosetyl Al,elementary,,,1
+11341,Quintozene,elementary,,,1
+11342,Cymoxanil,elementary,,,1
+11343,Acrolein,elementary,,,1
+11344,butadiene,elementary,,,1
+11345,"NAA, AMMONIUM SALT",elementary,,,1
+11346,Permethrin,elementary,,,1
+11347,MINERAL OIL,elementary,,,1
+11348,Fluazifop-p-butyl,elementary,,,1
+11349,HYDROLYZATE,elementary,,,1
+11350,CYAZOFAMID,elementary,,,1
+11351,Sulfentrazone,elementary,,,1
+11352,PRIMISULFURON-METHYL,elementary,,,1
+11353,SULFOXAFLOR,elementary,,,1
+11354,Glufosinate-ammonium,elementary,,,1
+11355,"Methane, trichlorofluoro-, CFC-11",elementary,,,1
+11356,NITROGLYCERIN,elementary,,,1
+11357,"Energy, wind",elementary,,,1
+11358,TOLFENPYRAD,elementary,,,1
+11359,hexazinone,elementary,,,1
+11360,o-Xylene,elementary,,,1
+11361,Imazamox,elementary,,,1
+11362,METALDEHYDE (TETRAMER),elementary,,,1
+11363,Chrysene,elementary,,,1
+11364,Dicrotophos,elementary,,,1
+11365,Epichlorohydrin,elementary,,,1
+11366,Limestone,elementary,,,1
+11367,Hexane,elementary,,,1
+11368,Cyclohexane,elementary,,,1
+11369,Nitrogen,elementary,,,1
+11370,QUINCLORAC DIMETHYLAMINE SALT,elementary,,,1
+11371,PYROXASULFONE,elementary,,,1
+11372,Hexachlorocyclopentadiene,elementary,,,1
+11373,FLUCARBAZONE-SODIUM,elementary,,,1
+11374,cumene,elementary,,,1
+11375,Dimethenamid,elementary,,,1
+11376,"toluene-2,4-diisocyante",elementary,,,1
+11377,Isoxaflutole,elementary,,,1
+11378,DIMETHYL TETRACHLOROTEREPHTHALATE,elementary,,,1
+11379,METHOXYFENOZIDE,elementary,,,1
+11380,propanal,elementary,,,1
+11381,Pyriproxyfen,elementary,,,1
+11382,Bentazone,elementary,,,1
+11383,TEMBOTRIONE,elementary,,,1
+11384,DODECANOL,elementary,,,1
+11385,SPIRODICLOFEN,elementary,,,1
+11386,"METHYLCARBAMODITHIOIC ACID, MONOPOTASSIUM SALT",elementary,,,1
+11387,Dimethylamine,elementary,,,1
+11388,"Occupation, urban, discontinuously built",elementary,,,1
+11389,"4,4'-METHYLENEDIANILINE",elementary,,,1
+11390,Bisphenol A,elementary,,,1
+11391,Thidiazuron,elementary,,,1
+11392,Oxamyl,elementary,,,1
+11393,barium,elementary,,,1
+11394,Pronamide,elementary,,,1
+11395,THIACLOPRID,elementary,,,1
+11396,HYDROLYZATE,elementary,,,1
+11397,FLUBENDIAMIDE,elementary,,,1
+11398,FLUOPICOLIDE,elementary,,,1
+11399,Chlorimuron-ethyl,elementary,,,1
+11400,m-cresol,elementary,,,1
+11401,Mepiquat chloride,elementary,,,1
+11402,phenol,elementary,,,1
+11403,CYFLUFENAMID,elementary,,,1
+11404,"1,4-dioxane",elementary,,,1
+11405,"Propene, 1,3-dichloro-",elementary,,,1
+11406,MESOSULFURON-METHYL,elementary,,,1
+11407,vanadium,elementary,,,1
+11408,Ametryn,elementary,,,1
+11409,"PHENOL,2,2'-METHYLENEBIS 4-CHLORO-",elementary,,,1
+11410,"Occupation, pasture and meadow",elementary,,,1
+11411,propargyl alcohol,elementary,,,1
+11412,PINOXADEN,elementary,,,1
+11413,HYDROGEN SULFIDE,elementary,,,1
+11414,SEC-BUTYL ALCOHOL,elementary,,,1
+11415,METRAFENONE,elementary,,,1
+11416,"1,3-PROPANEDIOL, 2,2-BIS(BRME)-",elementary,,,1
+11417,1-Naphthaleneacetamide,elementary,,,1
+11418,HCFC-253,elementary,,,1
+11419,Asbestos,elementary,,,1
+11420,dibenzofuran,elementary,,,1
+11421,Fludioxonil,elementary,,,1
+11422,"1,2-DICHLOROETHYLENE",elementary,,,1
+11423,Sulfur,elementary,,,1
+11424,THIOSEMICARBAZIDE,elementary,,,1
+11425,Alachlor,elementary,,,1
+11426,2-METHOXYETHANOL,elementary,,,1
+11427,"(2,4-DICHLOROPHENOXY)ACETIC ACID COMPD. WITH 2,2-IMINOBIS[ETHANOL] (1:1)",elementary,,,1
+11428,CGA 245704,elementary,,,1
+11429,COPPER OCTANOATE,elementary,,,1
+11430,CUPRAMMONIUM ACETATE,elementary,,,1
+11431,GIBBERELLINS A4A7,elementary,,,1
+11432,Xylene,elementary,,,1
+11433,FLUTHIACET-METHYL,elementary,,,1
+11434,"1,4-dinitrobenzene",elementary,,,1
+11435,STREPTOMYCIN SULFATE,elementary,,,1
+11436,Sulfuric acid,elementary,,,1
+11437,Zinc,elementary,,,1
+11438,Dimethylamine,elementary,,,1
+11439,"[1,1'-BIPHENYL]-4,4'-DIAMINE, 3,3'-DIMETHOXY-, DIHYDROCHLORIDE",elementary,,,1
+11440,C.I. SOLVENT YELLOW 34,elementary,,,1
+11441,Phosmet,elementary,,,1
+11442,PYRAFLUFEN-ETHYL,elementary,,,1
+11443,FLUTRIAFOL,elementary,,,1
+11444,S-ABSCISIC ACID,elementary,,,1
+11445,ACIFLUORFEN-SODIUM,elementary,,,1
+11446,Biphenyl,elementary,,,1
+11447,Oxyfluorfen,elementary,,,1
+11448,N-Nitrosodipropylamine,elementary,,,1
+11449,benzo(a)pyrene,elementary,,,1
+11450,Sulfentrazone,elementary,,,1
+11451,"Phthalate, dimethyl-",elementary,,,1
+11452,Ethephon,elementary,,,1
+11453,"Methane, monochloro-, R-40",elementary,,,1
+11454,Fenarimol,elementary,,,1
+11455,methyl isothiocyanate,elementary,,,1
+11456,Naphthalene,elementary,,,1
+11457,CHLORANTRANILIPROLE,elementary,,,1
+11458,PICOXYSTROBIN,elementary,,,1
+11459,3-CHLORO-2-METHYLPROPENE,elementary,,,1
+11460,N-METHYL-N-NITROSOUREA,elementary,,,1
+11461,MONO-POTASSIUM SALT,elementary,,,1
+11462,"2,4,5,2',5'-PENTACHLOROBIPHENYL",elementary,,,1
+11463,Myclobutanil,elementary,,,1
+11464,Fenarimol,elementary,,,1
+11465,COPPER OCTANOATE,elementary,,,1
+11466,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",elementary,,,1
+11467,CATECHOL,elementary,,,1
+11468,Methamidophos,elementary,,,1
+11469,Monochloroethane,elementary,,,1
+11470,BENEFIN,elementary,,,1
+11471,SPIRODICLOFEN,elementary,,,1
+11472,Glyphosate-isopropylammonium,elementary,,,1
+11473,2-Acetylaminofluorene,elementary,,,1
+11474,TOPRAMEZONE,elementary,,,1
+11475,SODIUM CHLORATE,elementary,,,1
+11476,Sand and gravel,elementary,,,1
+11477,HCFC-142b,elementary,,,1
+11478,Chlorothalonil,elementary,,,1
+11479,"2,3,4'-TRICHLOROBIPHENYL",elementary,,,1
+11480,FENPYROXIMATE,elementary,,,1
+11481,IMAZAPIC-AMMONIUM,elementary,,,1
+11482,selenium,elementary,,,1
+11483,POTASSIUM PHOSPHATE,elementary,,,1
+11484,"2,4/2,6-toluenediisocyanate (mixture)",elementary,,,1
+11485,THIENCARBAZONE-METHY,elementary,,,1
+11486,Hexachlorocyclopentadiene,elementary,,,1
+11487,Flumioxazin,elementary,,,1
+11488,Dicloran,elementary,,,1
+11489,Bifenthrin,elementary,,,1
+11490,METHANONE,elementary,,,1
+11491,"2,4-D",elementary,,,1
+11492,"2,4-D",elementary,,,1
+11493,acenaphthylene,elementary,,,1
+11494,Acephate,elementary,,,1
+11495,Acephate,elementary,,,1
+11496,Acetochlor,elementary,,,1
+11497,Acetochlor,elementary,,,1
+11498,Alachlor,elementary,,,1
+11499,Alachlor,elementary,,,1
+11500,Aldicarb,elementary,,,1
+11501,Aldicarb,elementary,,,1
+11502,ammonia,elementary,,,1
+11503,Atrazine,elementary,,,1
+11504,Atrazine,elementary,,,1
+11505,Azinphos-methyl,elementary,,,1
+11506,Azinphos-methyl,elementary,,,1
+11507,Bentazone,elementary,,,1
+11508,Bentazone,elementary,,,1
+11509,"benzene, chloro-",elementary,,,1
+11510,Carbaryl,elementary,,,1
+11511,Carbaryl,elementary,,,1
+11512,Chlorothalonil,elementary,,,1
+11513,Chlorothalonil,elementary,,,1
+11514,Chlorpyrifos,elementary,,,1
+11515,Chlorpyrifos,elementary,,,1
+11516,chromium,elementary,,,1
+11517,Clomazone,elementary,,,1
+11518,Clomazone,elementary,,,1
+11519,Diazinon,elementary,,,1
+11520,Diazinon,elementary,,,1
+11521,Dicamba,elementary,,,1
+11522,Dicamba,elementary,,,1
+11523,Dimethenamid,elementary,,,1
+11524,Dimethenamid,elementary,,,1
+11525,Diuron,elementary,,,1
+11526,Diuron,elementary,,,1
+11527,Endosulfan,elementary,,,1
+11528,Endosulfan,elementary,,,1
+11529,Ethalfluralin,elementary,,,1
+11530,Ethalfluralin,elementary,,,1
+11531,Ethephon,elementary,,,1
+11532,Ethephon,elementary,,,1
+11533,Ethoprop,elementary,,,1
+11534,Ethoprop,elementary,,,1
+11535,Fluometuron,elementary,,,1
+11536,Fluometuron,elementary,,,1
+11537,Glyphosate,elementary,,,1
+11538,Linuron,elementary,,,1
+11539,Linuron,elementary,,,1
+11540,Malathion,elementary,,,1
+11541,Malathion,elementary,,,1
+11542,Mancozeb,elementary,,,1
+11543,Mancozeb,elementary,,,1
+11544,"Methane, monochloro-, R-40",elementary,,,1
+11545,Metolachlor,elementary,,,1
+11546,Metolachlor,elementary,,,1
+11547,Metribuzin,elementary,,,1
+11548,Metribuzin,elementary,,,1
+11549,nickel,elementary,,,1
+11550,Norflurazon,elementary,,,1
+11551,Norflurazon,elementary,,,1
+11552,Oxamyl,elementary,,,1
+11553,Oxamyl,elementary,,,1
+11554,Paraquat,elementary,,,1
+11555,Paraquat,elementary,,,1
+11556,Pendimethalin,elementary,,,1
+11557,Pendimethalin,elementary,,,1
+11558,Permethrin,elementary,,,1
+11559,Permethrin,elementary,,,1
+11560,Phorate,elementary,,,1
+11561,Phorate,elementary,,,1
+11562,"phthalate, dioctyl-",elementary,,,1
+11563,Prometryn,elementary,,,1
+11564,Prometryn,elementary,,,1
+11565,Propanil,elementary,,,1
+11566,Propanil,elementary,,,1
+11567,silver,elementary,,,1
+11568,Simazine,elementary,,,1
+11569,Simazine,elementary,,,1
+11570,Sulfuric acid,elementary,,,1
+11571,Terbufos,elementary,,,1
+11572,Terbufos,elementary,,,1
+11573,Thiobencarb,elementary,,,1
+11574,Thiobencarb,elementary,,,1
+11575,Trifluralin,elementary,,,1
+11576,Trifluralin,elementary,,,1
+11577,vanadium,elementary,,,1
+11578,diisocyanates,elementary,,,1
+11579,MANDIPROPAMIDE TECHN,elementary,,,1
+11580,Propene,elementary,,,1
+11581,PINOXADEN,elementary,,,1
+11582,Decabromodiphenyl oxide,elementary,,,1
+11583,"2,6-XYLIDINE",elementary,,,1
+11584,Zinc,elementary,,,1
+11585,Cycloate,elementary,,,1
+11586,pentachlorophenol,elementary,,,1
+11587,ISODRIN,elementary,,,1
+11588,Alachlor,elementary,,,1
+11589,"C,I, DIRECT BLACK 38",elementary,,,1
+11590,1-METHYLNAPTHALENE,elementary,,,1
+11591,"S,S,S-tributyl phosphorotrithioate",elementary,,,1
+11592,"METHYLCARBAMODITHIOIC ACID, MONOPOTASSIUM SALT",elementary,,,1
+11593,Chloroform,elementary,,,1
+11594,"1,2-DICHLOROBENZENE",elementary,,,1
+11595,Thidiazuron,elementary,,,1
+11596,FENBUTATIN-OXIDE,elementary,,,1
+11597,Metiram,elementary,,,1
+11598,Vinyl acetate,elementary,,,1
+11599,DIAMINOTOLUENES,elementary,,,1
+11600,Propiconazole,elementary,,,1
+11601,formaldehyde,elementary,,,1
+11602,"Benzene, hexachloro-",elementary,,,1
+11603,FLUOXASTROBIN,elementary,,,1
+11604,CHLORONAPHTHALENE,elementary,,,1
+11605,Cresol,elementary,,,1
+11606,anilazine,elementary,,,1
+11607,Anthracene,elementary,,,1
+11608,HYDROGEN PEROXIDE,elementary,,,1
+11609,lead,elementary,,,1
+11610,Dimethoxy methane,elementary,,,1
+11611,5-NITRO-O-TOLUIDINE,elementary,,,1
+11612,PENTOBARBITAL SODIUM,elementary,,,1
+11613,Butyraldehyde,elementary,,,1
+11614,HALOSULFURON,elementary,,,1
+11615,SAFLUFENACIL,elementary,,,1
+11616,ETOXAZOLE,elementary,,,1
+11617,Pyridaben,elementary,,,1
+11618,Phenol,elementary,,,1
+11619,Diazinon,elementary,,,1
+11620,Pyrimethanil,elementary,,,1
+11621,FORMETANATE HYDROCHLORIDE,elementary,,,1
+11622,CALCIUM POLYSULFIDE,elementary,,,1
+11623,"2-PHENYLPHENOL, SODIUM SALT",elementary,,,1
+11624,Iprodion,elementary,,,1
+11625,Maneb,elementary,,,1
+11626,NITROGEN TRIFLUORIDE,elementary,,,1
+11627,CLORANSULAM-METHYL,elementary,,,1
+11628,"Benzene, pentachloro-",elementary,,,1
+11629,Starane,elementary,,,1
+11630,hexane,elementary,,,1
+11631,Ethylene glycol,elementary,,,1
+11632,DINOTEFURAN,elementary,,,1
+11633,"Hydrazine, methyl-",elementary,,,1
+11634,"Indeno(1,2,3-cd)pyrene",elementary,,,1
+11635,2-(2-BUTOXYETHOXY) ETHYL ACETATE,elementary,,,1
+11636,DICAMBA SODIUM SALT,elementary,,,1
+11637,Myclobutanil,elementary,,,1
+11638,Imazamox,elementary,,,1
+11639,CYANAMIDE,elementary,,,1
+11640,"(2,4-DICHLOROPHENOXY)ACETIC ACID COMPD. WITH 2,2-IMINOBIS[ETHANOL] (1:1)",elementary,,,1
+11641,EPTC,elementary,,,1
+11642,Glufosinate-ammonium,elementary,,,1
+11643,METHYL ANTHRANILATE,elementary,,,1
+11644,FENAMIDONE,elementary,,,1
+11645,aluminum-phosphide,elementary,,,1
+11646,PYRETHRIN I,elementary,,,1
+11647,CLOFENTEZINE,elementary,,,1
+11648,SPINETORAM-J,elementary,,,1
+11649,Ferbam,elementary,,,1
+11650,Parathion-methyl,elementary,,,1
+11651,2-METHOXYETHYL ACETATE,elementary,,,1
+11652,hexazinone,elementary,,,1
+11653,carbon tetrachloride,elementary,,,1
+11654,Thiobencarb,elementary,,,1
+11655,"Methane, bromo-, Halon 1001",elementary,,,1
+11656,"N,N-DIMETHYLANILINE",elementary,,,1
+11657,Pyrithiobac sodium salt,elementary,,,1
+11658,QUINOLINE,elementary,,,1
+11659,IMAZAPIC,elementary,,,1
+11660,"2,4-D, ISOPROPYLAMINE SALT",elementary,,,1
+11661,mercury,elementary,,,1
+11662,COPPER OXYCHLORIDE,elementary,,,1
+11663,2-chlorophenol,elementary,,,1
+11664,REYNOUTRIA SACHALINE,elementary,,,1
+11665,BUTYL ACRYLATE,elementary,,,1
+11666,Zeolites,elementary,,,1
+11667,FLONICAMID,elementary,,,1
+11668,Sulfentrazone,elementary,,,1
+11669,POLYOXIN D ZINC SALT,elementary,,,1
+11670,"TRIS (2,3-DIBROMOPROPYL) PHOSPHATE",elementary,,,1
+11671,Prosulfuron,elementary,,,1
+11672,2-nitropropane,elementary,,,1
+11673,Bensulfuron methyl ester,elementary,,,1
+11674,SULFOSATE,elementary,,,1
+11675,POTASSIUM SALTS,elementary,,,1
+11676,Picloram,elementary,,,1
+11677,Cresol,elementary,,,1
+11678,BISPYRIBAC-SODIUM,elementary,,,1
+11679,S-ABSCISIC ACID,elementary,,,1
+11680,DIETHANOLAMINE,elementary,,,1
+11681,Natural gas liquids,elementary,,,1
+11682,Mepiquat chloride,elementary,,,1
+11683,Paraquat,elementary,,,1
+11684,"1,2-BUTYLENE OXIDE",elementary,,,1
+11685,Bromacil,elementary,,,1
+11686,PROPOXYCARBAZONE-SOD,elementary,,,1
+11687,Trichlorfon,elementary,,,1
+11688,"PYRIDINE-2,6-DICARBOXYLIC ACID",elementary,,,1
+11689,"Methane, dichloro-, HCC-30",elementary,,,1
+11690,"Water, saline",elementary,,,1
+11691,"1,2,3-TRICHLOROPROPANE",elementary,,,1
+11692,Zirconium,elementary,,,1
+11693,SAFLUFENACIL,elementary,,,1
+11694,trichloroethylene,elementary,,,1
+11695,"IMAZETHAPYR, AMMON.",elementary,,,1
+11696,"1,2,4-trimethylbenzene",elementary,,,1
+11697,"Phenol, 2,4-dichloro",elementary,,,1
+11698,"2,4,6-trichlorophenol",elementary,,,1
+11699,antimony,elementary,,,1
+11700,MOLYBDENUM(VI),elementary,,,1
+11701,Cumene hydroperoxide,elementary,,,1
+11702,"IMAZAQUIN, MON. SALT",elementary,,,1
+11703,Dinoseb,elementary,,,1
+11704,Acrylic acid,elementary,,,1
+11705,"Occupation, agriculture + forest",elementary,,,1
+11706,QUIZALOFOP-P-ETHYL,elementary,,,1
+11707,ethylbenzene,elementary,,,1
+11708,oryzalin,elementary,,,1
+11709,Tebupirimphos,elementary,,,1
+11710,DIFLUFENZOPYR-SODIUM,elementary,,,1
+11711,Flutolanil,elementary,,,1
+11712,Benzoyl chloride,elementary,,,1
+11713,COPPER CHLORIDE HYD.,elementary,,,1
+11714,PYRAFLUFEN-ETHYL,elementary,,,1
+11715,COPPER OXIDE,elementary,,,1
+11716,Methyl methacrylate,elementary,,,1
+11717,Metiram,elementary,,,1
+11718,METALDEHYDE (TETRAMER),elementary,,,1
+11719,Cumene,elementary,,,1
+11720,"Ethene, trichloro-",elementary,,,1
+11721,Kresoxim-methyl,elementary,,,1
+11722,SODIUM CHLORATE,elementary,,,1
+11723,Methyl methacrylate,elementary,,,1
+11724,biphenyl,elementary,,,1
+11725,biphenyl,elementary,,,1
+11726,Carbon dioxide,elementary,,,1
+11727,carbon monoxide,elementary,,,1
+11728,ethylene glycol,elementary,,,1
+11729,Parathion-methyl,elementary,,,1
+11730,Parathion-methyl,elementary,,,1
+11731,"Phenol, 2,4-dimethyl-",elementary,,,1
+11732,Dimethyl sulfate,elementary,,,1
+11733,"VOC, volatile organic compounds",elementary,,,1
+11734,SULFOSATE,elementary,,,1
+11735,CYHALOFOP-BUTYL,elementary,,,1
+11736,METHYL ANTHRANILATE,elementary,,,1
+11737,PRIMISULFURON-METHYL,elementary,,,1
+11738,p-Cresidine,elementary,,,1
+11739,"Ethane, 1,1,2-trichloro-",elementary,,,1
+11740,MALEIC ANHYDRIDE,elementary,,,1
+11741,"1,2-dinitrobenzene",elementary,,,1
+11742,NICOTINE,elementary,,,1
+11743,CROTONIC ACID,elementary,,,1
+11744,"2,4,5-T TRIETHYLAMMONIUM SALT",elementary,,,1
+11745,Parathion-methyl,elementary,,,1
+11746,isobutyraldehyde,elementary,,,1
+11747,FENOXAPROP-P-ETHYL,elementary,,,1
+11748,Fenbuconazole,elementary,,,1
+11749,CLODINAFOP-PROPARGIL,elementary,,,1
+11750,SPIROTETRAMAT,elementary,,,1
+11751,Propiconazole,elementary,,,1
+11752,"Methane, trichlorofluoro-, CFC-11",elementary,,,1
+11753,MESOTRIONE,elementary,,,1
+11754,DICAMBA SODIUM SALT,elementary,,,1
+11755,barium,elementary,,,1
+11756,Copper (+II),elementary,,,1
+11757,Aldicarb,elementary,,,1
+11758,Clethodim,elementary,,,1
+11759,5-FLUOROURACIL,elementary,,,1
+11760,"1,2-dibromo-3-chloropropane",elementary,,,1
+11761,4-aminobiphenyl,elementary,,,1
+11762,NITRATE,elementary,,,1
+11763,"Water, fresh",elementary,,,1
+11764,FORMETANATE HYDROCHLORIDE,elementary,,,1
+11765,"Benzene, chloro-",elementary,,,1
+11766,N-(3-CHLORALLYL) HEXAMINIUM CHLORIDE,elementary,,,1
+11767,"Ethene, tetrachloro-",elementary,,,1
+11768,Flumiclorac-pentyl,elementary,,,1
+11769,ethylene glycol,elementary,,,1
+11770,Esfenvalerate,elementary,,,1
+11771,"MCPA, 2-ETHYLHEXYL",elementary,,,1
+11772,Captan,elementary,,,1
+11773,METHOXYFENOZIDE,elementary,,,1
+11774,FENOXAPROP-P-ETHYL,elementary,,,1
+11775,WARFARIN,elementary,,,1
+11776,TRIFLOXYSULFURON-SOD,elementary,,,1
+11777,2-PHENYLPHENOL,elementary,,,1
+11778,Metaldehyde (tetramer),elementary,,,1
+11779,HALOSULFURON,elementary,,,1
+11780,Tebupirimphos,elementary,,,1
+11781,CALCIUM POLYSULFIDE,elementary,,,1
+11782,Imazethapyr,elementary,,,1
+11783,Chromium VI,elementary,,,1
+11784,"1,3-dichlorobenzene",elementary,,,1
+11785,Thiophanat-methyl,elementary,,,1
+11786,NITROMETHANE,elementary,,,1
+11787,Clomazone,elementary,,,1
+11788,Sulfosulfuron,elementary,,,1
+11789,"2,4-DB",elementary,,,1
+11790,toluene,elementary,,,1
+11791,Pentachloroethane,elementary,,,1
+11792,Pronamide,elementary,,,1
+11793,Propanil,elementary,,,1
+11794,Flumetsulam,elementary,,,1
+11795,2-chlorophenol,elementary,,,1
+11796,ALLYL ALCOHOL,elementary,,,1
+11797,DIMETHYL TETRACHLOROTEREPHTHALATE,elementary,,,1
+11798,METHACRYLONITRILE,elementary,,,1
+11799,Chlordane,elementary,,,1
+11800,PHOSPHORUS,elementary,,,1
+11801,"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",elementary,,,1
+11802,Propamocarb HCl,elementary,,,1
+11803,Fosetyl Al,elementary,,,1
+11804,ETHYLENETHIOUREA,elementary,,,1
+11805,STIROFOS,elementary,,,1
+11806,Bis-(chloromethyl)ether,elementary,,,1
+11807,Starane,elementary,,,1
+11808,Triethylene glycol,elementary,,,1
+11809,Hexane,elementary,,,1
+11810,Lambda-cyhalothrin,elementary,,,1
+11811,Pymetrozine,elementary,,,1
+11812,Methyl acrylate,elementary,,,1
+11813,ALUMINUM OXIDE,elementary,,,1
+11814,pyrene,elementary,,,1
+11815,DIFLUFENZOPYR-SODIUM,elementary,,,1
+11816,"hexachloro-1,3-butadiene",elementary,,,1
+11817,"methane, tetrachloro-, R-10",elementary,,,1
+11818,Lambda-cyhalothrin,elementary,,,1
+11819,Azadirachtin,elementary,,,1
+11820,NOVALURON,elementary,,,1
+11821,TRIFLUMIZOLE,elementary,,,1
+11822,ammonia,elementary,,,1
+11823,nitric acid,elementary,,,1
+11824,FENPYROXIMATE,elementary,,,1
+11825,"NAA, SODIUM",elementary,,,1
+11826,PROHEXADIONE CALCIUM,elementary,,,1
+11827,Cymoxanil,elementary,,,1
+11828,Rimsulfuron,elementary,,,1
+11829,"Methane, tetrachloro-, R-10",elementary,,,1
+11830,METHOXYFENOZIDE,elementary,,,1
+11831,IRON PENTACARBONYL,elementary,,,1
+11832,"benzene, ethyl-",elementary,,,1
+11833,Cadmium,elementary,,,1
+11834,Imidacloprid,elementary,,,1
+11835,arsenic,elementary,,,1
+11836,"ethane, 1,2-dibromo-",elementary,,,1
+11837,Pyrimethanil,elementary,,,1
+11838,SPINETORAM-J,elementary,,,1
+11839,Phosphorus,elementary,,,1
+11840,Propachlor,elementary,,,1
+11841,Carbaryl,elementary,,,1
+11842,"2,4,5-T TRIETHYLAMMONIUM SALT",elementary,,,1
+11843,PENOXSULAM,elementary,,,1
+11844,CRYOLITE,elementary,,,1
+11845,Flufenacet,elementary,,,1
+11846,"hexachloro-1,3-butadiene",elementary,,,1
+11847,"methane, bromo-, halon 1001",elementary,,,1
+11848,CROTONIC ACID,elementary,,,1
+11849,Decabromodiphenyl oxide,elementary,,,1
+11850,BISPYRIBAC-SODIUM,elementary,,,1
+11851,Chloropicrin,elementary,,,1
+11852,TRIFLOXYSTROBIN,elementary,,,1
+11853,1-Methyl-2-pyrrolidinone,elementary,,,1
+11854,beryllium,elementary,,,1
+11855,FLUXAPYROXAD,elementary,,,1
+11856,OXYTETRACYCLINE HYDROCHLORIDE,elementary,,,1
+11857,Thiram,elementary,,,1
+11858,Flufenacet,elementary,,,1
+11859,Methamidophos,elementary,,,1
+11860,PSEUDO. FLUORES A506,elementary,,,1
+11861,ALUMINUM PHOSPHIDE,elementary,,,1
+11862,"Diglycidyl resorcinol ether, technical grade",elementary,,,1
+11863,Ethylene oxide,elementary,,,1
+11864,lead,elementary,,,1
+11865,2-ethoxyethyl acetate,elementary,,,1
+11866,BENEFIN,elementary,,,1
+11867,"2,4-D, BUTOXYETHYL ESTER",elementary,,,1
+11868,Thiodicarb,elementary,,,1
+11869,CRYOLITE,elementary,,,1
+11870,dibenzofuran,elementary,,,1
+11871,INDAZIFLAM,elementary,,,1
+11872,BETA-PROPIOLACTONE,elementary,,,1
+11873,ETOXAZOLE,elementary,,,1
+11874,"METHYLCARBAMODITHIOIC ACID, MONOPOTASSIUM SALT",elementary,,,1
+11875,"2-Chloro-1,1,1-trifluoroethane",elementary,,,1
+11876,SPINOSAD,elementary,,,1
+11877,Ametryn,elementary,,,1
+11878,THIACLOPRID,elementary,,,1
+11879,Simazine,elementary,,,1
+11880,"2,4-D",elementary,,,1
+11881,Dichlobenil,elementary,,,1
+11882,"S,S,S-tributyl phosphorotrithioate",elementary,,,1
+11883,HYDROGEN PEROXIDE,elementary,,,1
+11884,SPIROTETRAMAT,elementary,,,1
+11885,"1,2,4-trichlorobenzene",elementary,,,1
+11886,(4-CHLORO-2-METHYLPHENOXY)ACETIC ACID COMPD. WITH N-METHYLMETHANAMINE (1:1),elementary,,,1
+11887,Tebupirimphos,elementary,,,1
+11888,mercury,elementary,,,1
+11889,"Clay, bentonite",elementary,,,1
+11890,Fipronil,elementary,,,1
+11891,"2,2-BIS(4-HYDROXY-3,5-DIBROMOPHENYL)PROPANE",elementary,,,1
+11892,Acephate,elementary,,,1
+11893,Propene,elementary,,,1
+11894,Thiodicarb,elementary,,,1
+11895,BROMOXYNIL HEPTANOATE,elementary,,,1
+11896,Triethyl amine,elementary,,,1
+11897,Captan,elementary,,,1
+11898,PYRETHRIN I,elementary,,,1
+11899,"Phenol, pentachloro-",elementary,,,1
+11900,dicyclopentadiene,elementary,,,1
+11901,CYHALOFOP-BUTYL,elementary,,,1
+11902,STREPTOMYCIN SULFATE,elementary,,,1
+11903,2-METHYLPYRIDINE,elementary,,,1
+11904,5-FLUOROURACIL,elementary,,,1
+11905,STYRENE OXIDE,elementary,,,1
+11906,PINOXADEN,elementary,,,1
+11907,Dimethoate,elementary,,,1
+11908,FENHEXAMID,elementary,,,1
+11909,"Occupation, industrial area",elementary,,,1
+11910,FENOXAPROP-P-ETHYL,elementary,,,1
+11911,Formic acid,elementary,,,1
+11912,Cyromazine,elementary,,,1
+11913,OXYTETRACYCLINE CALC,elementary,,,1
+11914,Diatomite,elementary,,,1
+11915,phosgene,elementary,,,1
+11916,sodium azide,elementary,,,1
+11917,"NAA, AMMONIUM SALT",elementary,,,1
+11918,Flutolanil,elementary,,,1
+11919,Cyfluthrin,elementary,,,1
+11920,"Occupation, pasture and meadow, intensive",elementary,,,1
+11921,hexazinone,elementary,,,1
+11922,THIENCARBAZONE-METHY,elementary,,,1
+11923,Benzyl chloride,elementary,,,1
+11924,Bifenthrin,elementary,,,1
+11925,M-DINITROBENZENE,elementary,,,1
+11926,DODECANOL,elementary,,,1
+11927,Imazethapyr,elementary,,,1
+11928,Ethofumesate,elementary,,,1
+11929,Sulfuric acid,elementary,,,1
+11930,Propanil,elementary,,,1
+11931,"Methane, tetrachloro-, R-10",elementary,,,1
+11932,MOLYBDENUM(VI),elementary,,,1
+11933,Cyclanilide,elementary,,,1
+11934,FLONICAMID,elementary,,,1
+11935,DINOTEFURAN,elementary,,,1
+11936,avermectin B1,elementary,,,1
+11937,Sethoxydim,elementary,,,1
+11938,GIBBERELLIC ACID,elementary,,,1
+11939,Acrylic acid,elementary,,,1
+11940,"ethene, tetrachloro-",elementary,,,1
+11941,COPPER SULFATE,elementary,,,1
+11942,Prometryn,elementary,,,1
+11943,ETHENE,elementary,,,1
+11944,"Methane, dichloro-, HCC-30",elementary,,,1
+11945,"1,2-DICHLOROBENZENE",elementary,,,1
+11946,COPPER RESINATE,elementary,,,1
+11947,manganese,elementary,,,1
+11948,"2,4-D, 2-ETHYLHEXYL ESTER",elementary,,,1
+11949,styrene,elementary,,,1
+11950,bis(2-chloroethoxy)methane,elementary,,,1
+11951,"MCPA, ISOOCTYL ESTER",elementary,,,1
+11952,IMAZOSULFURON,elementary,,,1
+11953,OXIRANEMETHANOL,elementary,,,1
+11954,"1,1-DIMETHYL HYDRAZINE",elementary,,,1
+11955,POTASSIUM BROMATE,elementary,,,1
+11956,METHYL ANTHRANILATE,elementary,,,1
+11957,Metalaxil,elementary,,,1
+11958,Carbofuran,elementary,,,1
+11959,Carboxin,elementary,,,1
+11960,Nicosulfuron,elementary,,,1
+11961,CYANAMIDE,elementary,,,1
+11962,n-nitrosomorpholine,elementary,,,1
+11963,Chloroacetic acid,elementary,,,1
+11964,"2,3-DICHLOROPROPENE",elementary,,,1
+11965,Carfentrazone ethyl ester,elementary,,,1
+11966,diethanolamine,elementary,,,1
+11967,isobutyraldehyde,elementary,,,1
+11968,E-8-DODECENYL ACETAT,elementary,,,1
+11969,"IMAZETHAPYR, AMMON.",elementary,,,1
+11970,ZETA-CYPERMETHRIN,elementary,,,1
+11971,CATECHOL,elementary,,,1
+11972,Butadiene,elementary,,,1
+11973,SPINETORAM,elementary,,,1
+11974,Cymoxanil,elementary,,,1
+11975,1-Methyl-2-pyrrolidinone,elementary,,,1
+11976,Clopyralid,elementary,,,1
+11977,ACIFLUORFEN-SODIUM,elementary,,,1
+11978,Captan,elementary,,,1
+11979,Metam-sodium,elementary,,,1
+11980,bis(2-chloroethyl)ether,elementary,,,1
+11981,Fenpropathrin,elementary,,,1
+11982,GIBBERELLIC ACID,elementary,,,1
+11983,"2,4,5-T TRIETHYLAMMONIUM SALT",elementary,,,1
+11984,FENBUTATIN-OXIDE,elementary,,,1
+11985,Fenarimol,elementary,,,1
+11986,FENBUTATIN-OXIDE,elementary,,,1
+11987,TOXAPHENE (EXAMPLE ISOMER SHOWN BELOW),elementary,,,1
+11988,HCFC-225cb,elementary,,,1
+11989,cumene,elementary,,,1
+11990,Xylene,elementary,,,1
+11991,Naled,elementary,,,1
+11992,BIFENAZATE,elementary,,,1
+11993,POTASSIUM BICARBON.,elementary,,,1
+11994,BUTYL ISOCYANATE,elementary,,,1
+11995,Sodium chloride,elementary,,,1
+11996,ZOXAMIDE,elementary,,,1
+11997,"Phthalate, dibutyl-",elementary,,,1
+11998,"Occupation, annual crop, flooded crop",elementary,,,1
+11999,CYAZOFAMID,elementary,,,1
+12000,"Rhenium, in crude ore",elementary,,,1
+12001,Cyfluthrin,elementary,,,1
+12002,Piperonyl butoxide,elementary,,,1
+12003,Dicloran,elementary,,,1
+12004,COPPER OXIDE,elementary,,,1
+12005,SPINETORAM-L,elementary,,,1
+12006,DIETHANOLAMINE,elementary,,,1
+12007,FORCHLORFENURON,elementary,,,1
+12008,Acetonitrile,elementary,,,1
+12009,Thiram,elementary,,,1
+12010,PETROLEUM DISTILLATE,elementary,,,1
+12011,Fenbuconazole,elementary,,,1
+12012,SPINETORAM-J,elementary,,,1
+12013,Crotonaldehyde,elementary,,,1
+12014,CHLORANTRANILIPROLE,elementary,,,1
+12015,Chlorimuron-ethyl,elementary,,,1
+12016,Pymetrozine,elementary,,,1
+12017,nickel,elementary,,,1
+12018,Cypermethrin,elementary,,,1
+12019,phthalic anhydride,elementary,,,1
+12020,Cresol,elementary,,,1
+12021,Napropamide,elementary,,,1
+12022,benzal chloride,elementary,,,1
+12023,DODECADIEN-1-OL,elementary,,,1
+12024,PCB-15,elementary,,,1
+12025,2-chloro-1-phenylethanone,elementary,,,1
+12026,"Methane, dibromo-",elementary,,,1
+12027,P-PHENYLENEDIAMINE,elementary,,,1
+12028,nickel,elementary,,,1
+12029,Chloropicrin,elementary,,,1
+12030,CUPRAMMONIUM ACETATE,elementary,,,1
+12031,"1,1-DICHLOROETHYLENE",elementary,,,1
+12032,DIPHENYLAMINE,elementary,,,1
+12033,"Phthalate, dimethyl-",elementary,,,1
+12034,formaldehyde,elementary,,,1
+12035,benzyl chloride,elementary,,,1
+12036,Ethoprop,elementary,,,1
+12037,SAFLUFENACIL,elementary,,,1
+12038,Bromoform,elementary,,,1
+12039,ZOXAMIDE,elementary,,,1
+12040,Thiodicarb,elementary,,,1
+12041,LACTOFEN,elementary,,,1
+12042,Formaldehyde,elementary,,,1
+12043,CHLOROPRENE,elementary,,,1
+12044,CLOFENTEZINE,elementary,,,1
+12045,Diuron,elementary,,,1
+12046,Linuron,elementary,,,1
+12047,TERT-BUTYL ALCOHOL,elementary,,,1
+12048,NITRIC ACID,elementary,,,1
+12049,Metsulfuron-methyl,elementary,,,1
+12050,"Phthalate, dimethyl-",elementary,,,1
+12051,Clethodim,elementary,,,1
+12052,"NAA, SODIUM",elementary,,,1
+12053,ZOXAMIDE,elementary,,,1
+12054,"2,4-dimethylphenol",elementary,,,1
+12055,IMAZAPIC,elementary,,,1
+12056,"Ethane, 1,1,1-trichloro-, HCFC-140",elementary,,,1
+12057,FLUXAPYROXAD,elementary,,,1
+12058,ACETAMIPRID,elementary,,,1
+12059,"Benzene, 1,2,4-trimethyl-",elementary,,,1
+12060,FORCHLORFENURON,elementary,,,1
+12061,FLUOPICOLIDE,elementary,,,1
+12062,DICLOSULAM,elementary,,,1
+12063,CFC-13,elementary,,,1
+12064,FAMOXADONE,elementary,,,1
+12065,methyl isobutyl ketone,elementary,,,1
+12066,Maleic hydrazide,elementary,,,1
+12067,MANDIPROPAMIDE TECHN,elementary,,,1
+12068,PERACETIC ACID,elementary,,,1
+12069,MESOSULFURON-METHYL,elementary,,,1
+12070,Azoxystrobin,elementary,,,1
+12071,"Ethane, hexafluoro-, HFC-116",elementary,,,1
+12072,Piperonyl butoxide,elementary,,,1
+12073,Flumetsulam,elementary,,,1
+12074,p-cresol,elementary,,,1
+12075,2-PHENOXYETHANOL,elementary,,,1
+12076,DIMETHYLAMINOAZOBENZENE,elementary,,,1
+12077,Bromacil,elementary,,,1
+12078,Azadirachtin,elementary,,,1
+12079,bromoform,elementary,,,1
+12080,TOXAPHENE (EXAMPLE ISOMER SHOWN BELOW),elementary,,,1
+12081,avermectin B1,elementary,,,1
+12082,aluminum-phosphide,elementary,,,1
+12083,OSMIUM TETROXIDE,elementary,,,1
+12084,Creosol,elementary,,,1
+12085,Kyanite,elementary,,,1
+12086,FLUBENDIAMIDE,elementary,,,1
+12087,SPIROMESIFEN,elementary,,,1
+12088,"Ethanol, 2-butoxy-",elementary,,,1
+12089,MALEIC ANHYDRIDE,elementary,,,1
+12090,DICHLOROBENZENE,elementary,,,1
+12091,Glyphosate,elementary,,,1
+12092,"1H-PURIN-6-AMINE, N-(PHENYLMETHYL)-",elementary,,,1
+12093,Metalaxil,elementary,,,1
+12094,CYANAMIDE,elementary,,,1
+12095,OXIRANEMETHANOL,elementary,,,1
+12096,Dimethomorph,elementary,,,1
+12097,SULFOXAFLOR,elementary,,,1
+12098,Acetophenone,elementary,,,1
+12099,BIS(2-CHLORO-1-METHYLETHYL) ETHER,elementary,,,1
+12100,PROHEXADIONE CALCIUM,elementary,,,1
+12101,PYROXASULFONE,elementary,,,1
+12102,Methomyl,elementary,,,1
+12103,styrene,elementary,,,1
+12104,Fludioxonil,elementary,,,1
+12105,STRYCHNINE,elementary,,,1
+12106,Lindane,elementary,,,1
+12107,Titanium,elementary,,,1
+12108,Myclobutanil,elementary,,,1
+12109,Chloramben,elementary,,,1
+12110,GIBBERELLINS A4A7,elementary,,,1
+12111,Pyrithiobac sodium salt,elementary,,,1
+12112,ZIRAM,elementary,,,1
+12113,KAOLIN,elementary,,,1
+12114,"3,3'-Dichlorobenzidine",elementary,,,1
+12115,antimony,elementary,,,1
+12116,BIS (2-ETHOXY ETHYL)  ETHER,elementary,,,1
+12117,N-NITROSODIPHENYLAMINE,elementary,,,1
+12118,Bensulfuron methyl ester,elementary,,,1
+12119,Maleic hydrazide,elementary,,,1
+12120,"ethane, 1,1,2-trichloro-",elementary,,,1
+12121,"Propane, perfluoro-",elementary,,,1
+12122,naphthalene,elementary,,,1
+12123,Fluazinam,elementary,,,1
+12124,THIENCARBAZONE-METHY,elementary,,,1
+12125,Tetracycline hydrochloride,elementary,,,1
+12126,FLUTHIACET-METHYL,elementary,,,1
+12127,"NEEM OIL, CLAR. HYD.",elementary,,,1
+12128,Metribuzin,elementary,,,1
+12129,PERACETIC ACID,elementary,,,1
+12130,Beryllium,elementary,,,1
+12131,Butanol,elementary,,,1
+12132,QUINOLINE,elementary,,,1
+12133,Creosol,elementary,,,1
+12134,ZINC PHOSPHIDE,elementary,,,1
+12135,CLOTHIANIDIN,elementary,,,1
+12136,Isoxaflutole,elementary,,,1
+12137,Cypermethrin,elementary,,,1
+12138,COPPER HYDROXIDE,elementary,,,1
+12139,DICLOSULAM,elementary,,,1
+12140,PENTHIOPYRAD,elementary,,,1
+12141,Ethylene glycol monoethyl ether,elementary,,,1
+12142,NITROUS ACID,elementary,,,1
+12143,Kresoxim-methyl,elementary,,,1
+12144,"4,4'-DIAMINODIPHENYL ETHER",elementary,,,1
+12145,Captan,elementary,,,1
+12146,PENOXSULAM,elementary,,,1
+12147,Methiocarb,elementary,,,1
+12148,OXYTETRACYCLINE HYDROCHLORIDE,elementary,,,1
+12149,HCFC-132b,elementary,,,1
+12150,Ethylene glycol monoethyl ether,elementary,,,1
+12151,Hydrazine,elementary,,,1
+12152,TRIPHENYLTIN HYDROX.,elementary,,,1
+12153,Z-8-DODECEN ACETATE,elementary,,,1
+12154,HYDROQUINONE,elementary,,,1
+12155,Dicamba,elementary,,,1
+12156,Methamidophos,elementary,,,1
+12157,TERT-BUTYL ALCOHOL,elementary,,,1
+12158,Acetaldehyde,elementary,,,1
+12159,O-ANISIDINE,elementary,,,1
+12160,(4-CHLORO-2-METHYLPHENOXY)ACETIC ACID COMPD. WITH N-METHYLMETHANAMINE (1:1),elementary,,,1
+12161,Zinc,elementary,,,1
+12162,POTASSIUM SALTS,elementary,,,1
+12163,Quinclorac,elementary,,,1
+12164,FLUOPYRAM,elementary,,,1
+12165,FAMOXADONE,elementary,,,1
+12166,Aldicarb,elementary,,,1
+12167,"Occupation, forest",elementary,,,1
+12168,SPIROTETRAMAT,elementary,,,1
+12169,bromine,elementary,,,1
+12170,TOPRAMEZONE,elementary,,,1
+12171,ZETA-CYPERMETHRIN,elementary,,,1
+12172,butanol,elementary,,,1
+12173,Fluazifop-p-butyl,elementary,,,1
+12174,Thiobencarb,elementary,,,1
+12175,TERT-BUTYL ALCOHOL,elementary,,,1
+12176,"2,4-DB",elementary,,,1
+12177,Dichlorvos,elementary,,,1
+12178,Terbufos,elementary,,,1
+12179,HYDROFLUORIC ACID,elementary,,,1
+12180,PICOXYSTROBIN,elementary,,,1
+12181,p-xylene,elementary,,,1
+12182,FLUXAPYROXAD,elementary,,,1
+12183,KAOLIN,elementary,,,1
+12184,Metsulfuron-methyl,elementary,,,1
+12185,Talc,elementary,,,1
+12186,S-ABSCISIC ACID,elementary,,,1
+12187,monochloroethane,elementary,,,1
+12188,Tebuconazole,elementary,,,1
+12189,Tefluthrin,elementary,,,1
+12190,Metiram,elementary,,,1
+12191,"Benzene, ethyl-",elementary,,,1
+12192,Hydramethylnon,elementary,,,1
+12193,Cerium,elementary,,,1
+12194,Indoxacarb,elementary,,,1
+12195,DIPHENYLAMINE,elementary,,,1
+12196,Glyphosate-isopropylammonium,elementary,,,1
+12197,"2,4-D, ISOPROPYL ESTER",elementary,,,1
+12198,ZIRAM,elementary,,,1
+12199,Dodine,elementary,,,1
+12200,Glufosinate-ammonium,elementary,,,1
+12201,BENSULIDE,elementary,,,1
+12202,Vermiculite,elementary,,,1
+12203,t-butyl methyl ether,elementary,,,1
+12204,Acrolein,elementary,,,1
+12205,Hexythiazox,elementary,,,1
+12206,BROMOXYNIL OCTANOATE,elementary,,,1
+12207,Thiram,elementary,,,1
+12208,Mancozeb,elementary,,,1
+12209,CROTONIC ACID,elementary,,,1
+12210,CRYOLITE,elementary,,,1
+12211,oryzalin,elementary,,,1
+12212,Cyanide,elementary,,,1
+12213,dimethyl formamide,elementary,,,1
+12214,SPIRODICLOFEN,elementary,,,1
+12215,FENHEXAMID,elementary,,,1
+12216,POTASSIUM BICARBON.,elementary,,,1
+12217,COPPER HYDROXIDE,elementary,,,1
+12218,acetophenone,elementary,,,1
+12219,"toluene, 2,4-dinitro-",elementary,,,1
+12220,MINERAL OIL,elementary,,,1
+12221,MONOCARBAMIDE DIHYD.,elementary,,,1
+12222,Cadmium,elementary,,,1
+12223,"Methane, dichlorodifluoro-, CFC-12",elementary,,,1
+12224,nitrogen oxides,elementary,,,1
+12225,Difenoconazole,elementary,,,1
+12226,N-Methylolacrylamide,elementary,,,1
+12227,FLUTHIACET-METHYL,elementary,,,1
+12228,bromine,elementary,,,1
+12229,Indoxacarb,elementary,,,1
+12230,Propiconazole,elementary,,,1
+12231,Asbestos,elementary,,,1
+12232,FLUOPICOLIDE,elementary,,,1
+12233,propylene oxide,elementary,,,1
+12234,Cycloate,elementary,,,1
+12235,Cyanide,elementary,,,1
+12236,Quinclorac,elementary,,,1
+12237,DICLOSULAM,elementary,,,1
+12238,Flumioxazin,elementary,,,1
+12239,hexazinone,elementary,,,1
+12240,C.I. DIRECT BLUE 218,elementary,,,1
+12241,CFC-115,elementary,,,1
+12242,2-Nitrophenol,elementary,,,1
+12243,Clopyralid,elementary,,,1
+12244,POLYOXIN D ZINC SALT,elementary,,,1
+12245,IMAZOSULFURON,elementary,,,1
+12246,Tetrafluoroethylene (TFE),elementary,,,1
+12247,Rimsulfuron,elementary,,,1
+12248,carbonyl sulfide,elementary,,,1
+12249,BROMOXYNIL OCTANOATE,elementary,,,1
+12250,"Nickel, ion",elementary,,,1
+12251,REYNOUTRIA SACHALINE,elementary,,,1
+12252,"2,4-D, BUTOXYETHYL ESTER",elementary,,,1
+12253,FOMESAFEN SODIUM,elementary,,,1
+12254,EPTC,elementary,,,1
+12255,HYDROGEN PEROXIDE,elementary,,,1
+12256,FOMESAFEN SODIUM,elementary,,,1
+12257,"2,4-D, ISOPROPYL ESTER",elementary,,,1
+12258,BUTYL ACRYLATE,elementary,,,1
+12259,AMITROLE,elementary,,,1
+12260,PROTHIOCONAZOLE,elementary,,,1
+12261,MANDIPROPAMIDE TECHN,elementary,,,1
+12262,CLOTHIANIDIN,elementary,,,1
+12263,Fludioxonil,elementary,,,1
+12264,MEPIQUAT PENTABORATE,elementary,,,1
+12265,Clopyralid,elementary,,,1
+12266,QUINOLINE,elementary,,,1
+12267,"Ethane, 1,1,1-trichloro-, HCFC-140",elementary,,,1
+12268,"2,4-D, DIMETHYLAMINE SALT",elementary,,,1
+12269,hydrogen chloride,elementary,,,1
+12270,ETHYL CHLOROACETATE,elementary,,,1
+12271,polychlorinated biphenyls,elementary,,,1
+12272,TRALKOXYDIM,elementary,,,1
+12273,Dinoseb,elementary,,,1
+12274,Tribenuron-methyl,elementary,,,1
+12275,hexachlorobenzene,elementary,,,1
+12276,MALONONITRILE,elementary,,,1
+12277,Fenpropathrin,elementary,,,1
+12278,Azinphos-methyl,elementary,,,1
+12279,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",elementary,,,1
+12280,Cyanazine,elementary,,,1
+12281,Acetonitrile,elementary,,,1
+12282,E-8-DODECENYL ACETAT,elementary,,,1
+12283,Sulfuric acid,elementary,,,1
+12284,TRIFLUMIZOLE,elementary,,,1
+12285,POLYOXIN D ZINC SALT,elementary,,,1
+12286,diquat dibromide,elementary,,,1
+12287,POTASSIUM SALTS,elementary,,,1
+12288,Triforine,elementary,,,1
+12289,NICOTINE,elementary,,,1
+12290,MSMA,elementary,,,1
+12291,Glyphosate-isopropylammonium,elementary,,,1
+12292,PHTHALIC ANHYDRIDE,elementary,,,1
+12293,"Phthalate, dibutyl-",elementary,,,1
+12294,Dimethomorph,elementary,,,1
+12295,Crotonaldehyde,elementary,,,1
+12296,ALLYL ALCOHOL,elementary,,,1
+12297,SPIROMESIFEN,elementary,,,1
+12298,METCONAZOLE,elementary,,,1
+12299,SELENIUM(IV),elementary,,,1
+12300,Diflubenzuron,elementary,,,1
+12301,Sulfur,elementary,,,1
+12302,"Energy, nuclear fission",elementary,,,1
+12303,MCPA,elementary,,,1
+12304,Cyclohexanol,elementary,,,1
+12305,n-nitrosodimethylamine,elementary,,,1
+12306,"1,1,1-trichloroethane",elementary,,,1
+12307,PHTHALIC ANHYDRIDE,elementary,,,1
+12308,TRIFLOXYSULFURON-SOD,elementary,,,1
+12309,"2,4,5-T TRIETHYLAMMONIUM SALT",elementary,,,1
+12310,Pyriproxyfen,elementary,,,1
+12311,MESOTRIONE,elementary,,,1
+12312,anthracene,elementary,,,1
+12313,m-xylene,elementary,,,1
+12314,Oxyfluorfen,elementary,,,1
+12315,OCTACHLORONAPHTHALENE,elementary,,,1
+12316,AMMONIA,elementary,,,1
+12317,QUIZALOFOP-P-ETHYL,elementary,,,1
+12318,CYHALOFOP-BUTYL,elementary,,,1
+12319,PICRIC ACID,elementary,,,1
+12320,"2,4,5-trichlorophenol",elementary,,,1
+12321,Butyraldehyde,elementary,,,1
+12322,TOLFENPYRAD,elementary,,,1
+12323,Benomyl,elementary,,,1
+12324,KANTOR,elementary,,,1
+12325,Cumene hydroperoxide,elementary,,,1
+12326,"2,4-D, 2-ETHYLHEXYL ESTER",elementary,,,1
+12327,HALOSULFURON,elementary,,,1
+12328,cyanide,elementary,,,1
+12329,"Ethene, chloro-",elementary,,,1
+12330,"Phenol, 2,4-dichloro",elementary,,,1
+12331,E-8-DODECENYL ACETAT,elementary,,,1
+12332,IMAZAQUIN,elementary,,,1
+12333,"Cresol, p-",elementary,,,1
+12334,Methidathion,elementary,,,1
+12335,Chlorsulfuron,elementary,,,1
+12336,Acetochlor,elementary,,,1
+12337,Fenbuconazole,elementary,,,1
+12338,epichlorohydrin,elementary,,,1
+12339,DICHLOROPROPENE,elementary,,,1
+12340,METHYL CHLOROACETATE,elementary,,,1
+12341,Permethrin,elementary,,,1
+12342,PERACETIC ACID,elementary,,,1
+12343,Thiophanat-methyl,elementary,,,1
+12344,FORMETANATE HYDROCHLORIDE,elementary,,,1
+12345,THIOUREA,elementary,,,1
+12346,FAMOXADONE,elementary,,,1
+12347,"1,4-DIOXANE",elementary,,,1
+12348,NOVALURON,elementary,,,1
+12349,PHOSPHOROUS ACID,elementary,,,1
+12350,Mepiquat chloride,elementary,,,1
+12351,Bromacil,elementary,,,1
+12352,Glyphosate,elementary,,,1
+12353,LACTOFEN,elementary,,,1
+12354,DMTT (DAZOMET),elementary,,,1
+12355,MESOTRIONE,elementary,,,1
+12356,2-Mercaptobenzothiazole,elementary,,,1
+12357,"Phthalate, dioctyl-",elementary,,,1
+12358,Butanol,elementary,,,1
+12359,CHLOROBENZILATE,elementary,,,1
+12360,acrolein,elementary,,,1
+12361,PCB-1,elementary,,,1
+12362,Cyclohexanol,elementary,,,1
+12363,4-NITROPHENOL,elementary,,,1
+12364,carbon disulfide,elementary,,,1
+12365,CLODINAFOP-PROPARGIL,elementary,,,1
+12366,DICAMBA SODIUM SALT,elementary,,,1
+12367,PENTHIOPYRAD,elementary,,,1
+12368,Naled,elementary,,,1
+12369,NITROUS ACID,elementary,,,1
+12370,trifluralin,elementary,,,1
+12371,GAMMA-CYHALOTHRIN,elementary,,,1
+12372,o-Toluidine.HCl,elementary,,,1
+12373,dimethyl formamide,elementary,,,1
+12374,diquat dibromide,elementary,,,1
+12375,"2,4-D, 2-ETHYLHEXYL ESTER",elementary,,,1
+12376,Phosmet,elementary,,,1
+12377,PROHEXADIONE CALCIUM,elementary,,,1
+12378,ORTHOSULFAMURON,elementary,,,1
+12379,Cypermethrin,elementary,,,1
+12380,"2,4-D, 2-ETHYLHEXYL ESTER",elementary,,,1
+12381,Dimethyl sulfate,elementary,,,1
+12382,TRALKOXYDIM,elementary,,,1
+12383,SPINETORAM,elementary,,,1
+12384,HYDROCHLORIC ACID,elementary,,,1
+12385,nitric acid,elementary,,,1
+12386,arsenic,elementary,,,1
+12387,PHOSPHOROUS ACID,elementary,,,1
+12388,POTASSIUM PHOSPHATE,elementary,,,1
+12389,Imidacloprid,elementary,,,1
+12390,"Benzene, pentachloro-",elementary,,,1
+12391,Parathion,elementary,,,1
+12392,"2,4-D, ISOPROPYL ESTER",elementary,,,1
+12393,MINERAL OIL,elementary,,,1
+12394,BROMOXYNIL OCTANOATE,elementary,,,1
+12395,BOSCALID,elementary,,,1
+12396,Folpet,elementary,,,1
+12397,phenanthrene,elementary,,,1
+12398,COPPER OXIDE,elementary,,,1
+12399,CHLORINE,elementary,,,1
+12400,"1,2-DICHLOROETHYLENE",elementary,,,1
+12401,PRIMISULFURON-METHYL,elementary,,,1
+12402,Xylene,elementary,,,1
+12403,Epichlorohydrin,elementary,,,1
+12404,FLUOXASTROBIN,elementary,,,1
+12405,Esfenvalerate,elementary,,,1
+12406,CARBAZOLE,elementary,,,1
+12407,PENOXSULAM,elementary,,,1
+12408,SPINETORAM,elementary,,,1
+12409,Propene,elementary,,,1
+12410,"Ethane, 1,2-dichloro-",elementary,,,1
+12411,bis(n-octyl) phthalate,elementary,,,1
+12412,tertiary-Butyl Acetate,elementary,,,1
+12413,CLOTHIANIDIN,elementary,,,1
+12414,Oxyfluorfen,elementary,,,1
+12415,"1,1,2,2-tetrachloroethane",elementary,,,1
+12416,BROMOXYNIL HEPTANOATE,elementary,,,1
+12417,PYRAFLUFEN-ETHYL,elementary,,,1
+12418,Sulfosulfuron,elementary,,,1
+12419,"Energy, solar",elementary,,,1
+12420,SULFURYL FLUORIDE,elementary,,,1
+12421,2-Mercaptobenzothiazole,elementary,,,1
+12422,"4,4'-METHYLENEDIANILINE",elementary,,,1
+12423,SEC-BUTYL ALCOHOL,elementary,,,1
+12424,Aluminum,elementary,,,1
+12425,TOPRAMEZONE,elementary,,,1
+12426,Napropamide,elementary,,,1
+12427,Pendimethalin,elementary,,,1
+12428,SULFOXAFLOR,elementary,,,1
+12429,chromium,elementary,,,1
+12430,oryzalin,elementary,,,1
+12431,MCPB,elementary,,,1
+12432,1-Naphthaleneacetamide,elementary,,,1
+12433,Cyprodinil,elementary,,,1
+12434,Aniline,elementary,,,1
+12435,FLUCARBAZONE-SODIUM,elementary,,,1
+12436,"NAA, SODIUM",elementary,,,1
+12437,Palladium,elementary,,,1
+12438,Malathion,elementary,,,1
+12439,"2,4-D, BUTOXYETHYL ESTER",elementary,,,1
+12440,SPINETORAM-L,elementary,,,1
+12441,CYANAMIDE,elementary,,,1
+12442,"Dinitrotoluene, technical grade (2,4 (77%)- and 2,6 (19%)-)",elementary,,,1
+12443,Crude oil,elementary,,,1
+12444,acetaldehyde,elementary,,,1
+12445,Cycloate,elementary,,,1
+12446,Flufenacet,elementary,,,1
+12447,IMAZAPIC-AMMONIUM,elementary,,,1
+12448,Iprodion,elementary,,,1
+12449,METHANONE,elementary,,,1
+12450,Propargite,elementary,,,1
+12451,DODECANOL,elementary,,,1
+12452,Styrene,elementary,,,1
+12453,AZIRIDINE,elementary,,,1
+12454,BUTYL ACRYLATE,elementary,,,1
+12455,ETHENE,elementary,,,1
+12456,Fluroxypyr,elementary,,,1
+12457,Ethalfluralin,elementary,,,1
+12458,BROMOXYNIL HEPTANOATE,elementary,,,1
+12459,GAMMA-CYHALOTHRIN,elementary,,,1
+12460,Cyromazine,elementary,,,1
+12461,"Methane, trifluoro-, HFC-23",elementary,,,1
+12462,Acetamide,elementary,,,1
+12463,"1,4-dichlorobenzene",elementary,,,1
+12464,"3,3'-dimethylbenzidine",elementary,,,1
+12465,chromium,elementary,,,1
+12466,OCTACHLORONAPHTHALENE,elementary,,,1
+12467,CUPRAMMONIUM ACETATE,elementary,,,1
+12468,Pronamide,elementary,,,1
+12469,Diflubenzuron,elementary,,,1
+12470,BENEFIN,elementary,,,1
+12471,Maneb,elementary,,,1
+12472,PENTHIOPYRAD,elementary,,,1
+12473,PYROXSULAM,elementary,,,1
+12474,Dimethylcarbamyl chloride,elementary,,,1
+12475,SPINOSAD,elementary,,,1
+12476,Atrazine,elementary,,,1
+12477,Nitrogen fluoride,elementary,,,1
+12478,TETRADECANOL,elementary,,,1
+12479,Formic acid,elementary,,,1
+12480,isophorone,elementary,,,1
+12481,MOLYBDENUM(VI),elementary,,,1
+12482,Metsulfuron-methyl,elementary,,,1
+12483,chlorine,elementary,,,1
+12484,Metalaxil,elementary,,,1
+12485,"Ethane, 1,1,1-trifluoro-, HFC-143a",elementary,,,1
+12486,Triethyl amine,elementary,,,1
+12487,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",elementary,,,1
+12488,isobutyraldehyde,elementary,,,1
+12489,p-Cresidine,elementary,,,1
+12490,"Occupation, permanent crop",elementary,,,1
+12491,PYRACLOSTROBIN,elementary,,,1
+12492,HCFC-225ca,elementary,,,1
+12493,TEMBOTRIONE,elementary,,,1
+12494,Methyl iodide,elementary,,,1
+12495,Sulfuric acid,elementary,,,1
+12496,FLUOPYRAM,elementary,,,1
+12497,cyclohexane,elementary,,,1
+12498,Flumetsulam,elementary,,,1
+12499,"Toluene, 2,4-dinitro-",elementary,,,1
+12500,Atrazine,elementary,,,1
+12501,heptachlor,elementary,,,1
+12502,Buprofezin,elementary,,,1
+12503,toluene,elementary,,,1
+12504,KANTOR,elementary,,,1
+12505,"1,3-PHENYLENEDIAMINE",elementary,,,1
+12506,Nitrilotriacetic acid,elementary,,,1
+12507,OXYTETRACYCLINE HYDROCHLORIDE,elementary,,,1
+12508,Chloropicrin,elementary,,,1
+12509,Triethyl amine,elementary,,,1
+12510,benzene,elementary,,,1
+12511,BOSCALID,elementary,,,1
+12512,METCONAZOLE,elementary,,,1
+12513,Chlorsulfuron,elementary,,,1
+12514,silver,elementary,,,1
+12515,Acephate,elementary,,,1
+12516,"4,4'-METHYLENEBIS(2-CHLOROANALINE)",elementary,,,1
+12517,DIAMINOTOLUENES,elementary,,,1
+12518,copper,elementary,,,1
+12519,Propamocarb HCl,elementary,,,1
+12520,CHLOROMETHYL METHYL ETHER,elementary,,,1
+12521,"1,4-dinitrobenzene",elementary,,,1
+12522,"2,3-DICHLOROPROPENE",elementary,,,1
+12523,FORCHLORFENURON,elementary,,,1
+12524,TEMBOTRIONE,elementary,,,1
+12525,HALON 1211,elementary,,,1
+12526,TRIPHENYLTIN HYDROX.,elementary,,,1
+12527,"TRANS-1,3-DICHLOROPROPENE",elementary,,,1
+12528,methanol,elementary,,,1
+12529,VINYLFLUORIDE,elementary,,,1
+12530,POTASSIUM BICARBON.,elementary,,,1
+12531,IMAZAQUIN,elementary,,,1
+12532,PYRIDINE,elementary,,,1
+12533,PYRETHRIN I,elementary,,,1
+12534,SULFOSATE,elementary,,,1
+12535,AMETOCTRADIN,elementary,,,1
+12536,ALPHA-NAPHTHYLAMINE,elementary,,,1
+12537,Pyrithiobac sodium salt,elementary,,,1
+12538,MEPIQUAT PENTABORATE,elementary,,,1
+12539,Dicrotophos,elementary,,,1
+12540,ALLYL CHLORIDE,elementary,,,1
+12541,Hexythiazox,elementary,,,1
+12542,HEXACHLOROPRENE,elementary,,,1
+12543,Cobalt,elementary,,,1
+12544,Lambda-cyhalothrin,elementary,,,1
+12545,QUINOLINE,elementary,,,1
+12546,Napropamide,elementary,,,1
+12547,"4,4'-isopropylidenediphenol",elementary,,,1
+12548,"Energy, hydraulic potential",elementary,,,1
+12549,Fipronil,elementary,,,1
+12550,MONOCARBAMIDE DIHYD.,elementary,,,1
+12551,O-TOLUIDINE,elementary,,,1
+12552,LACTOFEN,elementary,,,1
+12553,ACETONE CYANOHYDRIN,elementary,,,1
+12554,Isoprene,elementary,,,1
+12555,INDAZIFLAM,elementary,,,1
+12556,BENZOIC TRICHLORIDE (BENZOTRICHLORIDE),elementary,,,1
+12557,"NAA, POTASSIUM SALT",elementary,,,1
+12558,"Natural gas, dry",elementary,,,1
+12559,ETHENE,elementary,,,1
+12560,"CARBAMODITHIOIC ACID, DIMETHYL-, POTASSIUM SALT",elementary,,,1
+12561,3-Iodo-2-propynyl butylcarbamate,elementary,,,1
+12562,Tri-allate,elementary,,,1
+12563,"7-OXABICYCLO[2,2,1]HEPTANE-2,3-DICARBOXYLIC ACID, DIPOTASSIUM SALT",elementary,,,1
+12564,Linuron,elementary,,,1
+12565,Propargite,elementary,,,1
+12566,Ethofumesate,elementary,,,1
+12567,CFC-114,elementary,,,1
+12568,Propamocarb HCl,elementary,,,1
+12569,"1,2,3-TRICHLOROPROPANE",elementary,,,1
+12570,"Propane, 1,2-dichloro-",elementary,,,1
+12571,TRIFLOXYSTROBIN,elementary,,,1
+12572,ethyl acrylate,elementary,,,1
+12573,QUINCLORAC DIMETHYLAMINE SALT,elementary,,,1
+12574,FENPYROXIMATE,elementary,,,1
+12575,Metribuzin,elementary,,,1
+12576,CYFLUFENAMID,elementary,,,1
+12577,Carfentrazone ethyl ester,elementary,,,1
+12578,Atrazine,elementary,,,1
+12579,Pyridaben,elementary,,,1
+12580,Acetophenone,elementary,,,1
+12581,"2,6-Dinitrotoluene",elementary,,,1
+12582,"1,4-DICHLORO-2-BUTENE",elementary,,,1
+12583,"MCPA, ISOOCTYL ESTER",elementary,,,1
+12584,"Clay, unspecified",elementary,,,1
+12585,"2,4-dinitrophenol",elementary,,,1
+12586,PSEUDO. FLUORES A506,elementary,,,1
+12587,DODECADIEN-1-OL,elementary,,,1
+12588,MCPA - SODIUM SALT,elementary,,,1
+12589,mercury,elementary,,,1
+12590,Dicamba,elementary,,,1
+12591,Fosetyl Al,elementary,,,1
+12592,TRICHLOROACETIC ACID,elementary,,,1
+12593,Imazamox,elementary,,,1
+12594,PYRIDINE,elementary,,,1
+12595,Dicrotophos,elementary,,,1
+12596,Sodium formate,elementary,,,1
+12597,PYRACLOSTROBIN,elementary,,,1
+12598,COPPER OCTANOATE,elementary,,,1
+12599,N-Nitrosopiperidine,elementary,,,1
+12600,FENHEXAMID,elementary,,,1
+12601,CGA 245704,elementary,,,1
+12602,4-Methyl-2-pentanone,elementary,,,1
+12603,4-Methyl-2-pentanone,elementary,,,1
+12604,Z-8-DODECEN ACETATE,elementary,,,1
+12605,Piperonyl butoxide,elementary,,,1
+12606,2-PHENYLPHENOL,elementary,,,1
+12607,"2,4-D, ISOPROPYLAMINE SALT",elementary,,,1
+12608,acrylic acid,elementary,,,1
+12609,TRIPHENYLTIN HYDROX.,elementary,,,1
+12610,PARAQUAT DICHLORIDE,elementary,,,1
+12611,COPPER CHLORIDE HYD.,elementary,,,1
+12612,chloroform,elementary,,,1
+12613,MESOSULFURON-METHYL,elementary,,,1
+12614,Naled,elementary,,,1
+12615,Bendiocarb,elementary,,,1
+12616,arsenic,elementary,,,1
+12617,Oxyfluorfen,elementary,,,1
+12618,2-METHYLANTHRACENE,elementary,,,1
+12619,Decabromodiphenyl oxide,elementary,,,1
+12620,TETRADECANOL,elementary,,,1
+12621,Tefluthrin,elementary,,,1
+12622,sulfur dioxide,elementary,,,1
+12623,ACRYLAMIDE,elementary,,,1
+12624,Diflubenzuron,elementary,,,1
+12625,Dibenzofuran,elementary,,,1
+12626,o-xylene,elementary,,,1
+12627,Molybdenum,elementary,,,1
+12628,Gold,elementary,,,1
+12629,Kaolin,elementary,,,1
+12630,Magnesium,elementary,,,1
+12631,Copper,elementary,,,1
+12632,Lead,elementary,,,1
+12633,Phosphate ore,elementary,,,1
+12634,acetamide,elementary,,,1
+12635,SPIROMESIFEN,elementary,,,1
+12636,Chlorimuron-ethyl,elementary,,,1
+12637,Mecoprop,elementary,,,1
+12638,"Occupation, industrial area, built up",elementary,,,1
+12639,Quinclorac,elementary,,,1
+12640,m-xylene,elementary,,,1
+12641,HYDROLYZATE,elementary,,,1
+12642,acetonitrile,elementary,,,1
+12643,COPPER SULFATE,elementary,,,1
+12644,Aluminum,elementary,,,1
+12645,MSMA,elementary,,,1
+12646,TRYPAN BLUE,elementary,,,1
+12647,Dimethomorph,elementary,,,1
+12648,aniline,elementary,,,1
+12649,COPPER CHLORIDE HYD.,elementary,,,1
