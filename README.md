@@ -20,21 +20,21 @@ Please take security seriously.
 
 When the connection to Postgres is working, you can run the function `create_basic_data`. This will create a subgraph for inventory data and a subgraph for a climate change method, as well as a `Node` for a climate change midpoint. This is just one modelling option, i don't claim it is the best, but it works.
 
-You can then import the US EEIO data. There are ways to do this in Python, but it is also possible in the `psql` shell:
+You can then import the US EEIO data (in the `data` folder). There are ways to do this in Python, but it is also possible in the `psql` shell:
 
 ```sql
 COPY node(id, name, kind, unit, location, subgraph_id)
-    FROM '/path/to/nodes.csv'
+    FROM '/path/to/data/nodes.csv'
     DELIMITER ','
     CSV HEADER;
 
 COPY edge(from_node_id, to_node_id, amount)
-    FROM '/path/to/edges.csv'
+    FROM '/path/to/data/edges.csv'
     DELIMITER ','
     CSV HEADER;
 
 COPY edge(from_node_id, to_node_id, amount)
-    FROM '/path/to/gcc.csv'
+    FROM '/path/to/data/gcc.csv'
     DELIMITER ','
     CSV HEADER;
 ```
