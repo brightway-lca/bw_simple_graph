@@ -96,3 +96,14 @@ In [12]: lca.lcia()
 
 In [13]: lca.score
 Out[13]: 1013.0161025854002
+```
+
+## What's missing?
+
+`bw2data` also provides:
+
+* Automatic tracking of modifications, so datapackages are automatically regenerated when needed
+* A flexible database schema where you can add arbitrary attributes (through the use of a serialized pickle column)
+* Separate LCIA normalization and weighting (though they do not appear to be used much)
+* A search index and search functionality
+* Utilities for testing on temporary databases
