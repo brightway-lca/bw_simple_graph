@@ -1,3 +1,17 @@
+import datetime
+import itertools
+import os
+from pathlib import Path
+
+import numpy as np
+from bw_processing import (
+    INDICES_DTYPE,
+    clean_datapackage_name,
+    create_datapackage,
+    load_datapackage,
+    safe_filename,
+)
+from fs.zipfs import ZipFS
 from peewee import (
     DateTimeField,
     DoesNotExist,
@@ -7,14 +21,6 @@ from peewee import (
     PostgresqlDatabase,
     TextField,
 )
-import os
-from pathlib import Path
-from bw_processing import clean_datapackage_name, load_datapackage, create_datapackage, safe_filename, INDICES_DTYPE
-import datetime
-import itertools
-import numpy as np
-from fs.zipfs import ZipFS
-
 
 __version__ = (0, 1)
 
@@ -22,11 +28,7 @@ cache_dir = Path(os.environ.get("BW_SIMPLE_CACHE"))
 assert cache_dir.is_dir()
 
 pg_db = PostgresqlDatabase(
-    database='bw_basic',
-    user='bw',
-    password='fakey-fake',
-    host='localhost',
-    port=5432
+    database="bw_basic", user="bw", password="fakey-fake", host="localhost", port=5432
 )
 
 
@@ -42,7 +44,7 @@ class Subgraph(BaseModel):
 
     @property
     def filepath_processed(self):
-        return cache_dir / (safe_filename(self.name) + '.zip')
+        return cache_dir / (safe_filename(self.name) + ".zip")
 
     @property
     def datapackage(self):
@@ -50,55 +52,72 @@ class Subgraph(BaseModel):
 
     def process_lci(self):
         if self.kind != "database":
-            raise ValueError("Processing to LCI datapackage only available for database subgraphs")
+            raise ValueError(
+                "Processing to LCI datapackage only available for database subgraphs"
+            )
 
         Flow = Node.alias()
         Activity = Node.alias()
         Product = Node.alias()
 
         biosphere = list(
-            Edge
-            .select(Edge.from_node_id, Edge.to_node_id, Edge.amount)
-            .join(Flow, on=(Edge.from_node == Flow.id))  # Assume biosphere always in one direction
-            .switch(Edge).join(Activity, on=(Edge.to_node == Activity.id))
-            .where(Activity.subgraph_id == self.id,
-                   Flow.kind == "elementary",
-                   Activity.kind == "activity")
+            Edge.select(Edge.from_node_id, Edge.to_node_id, Edge.amount)
+            .join(
+                Flow, on=(Edge.from_node == Flow.id)
+            )  # Assume biosphere always in one direction
+            .switch(Edge)
+            .join(Activity, on=(Edge.to_node == Activity.id))
+            .where(
+                Activity.subgraph_id == self.id,
+                Flow.kind == "elementary",
+                Activity.kind == "activity",
+            )
             .tuples()
         )
         biosphere_indices = np.zeros(len(biosphere), dtype=INDICES_DTYPE)
-        biosphere_indices['row'] = np.array([x[0] for x in biosphere])
-        biosphere_indices['col'] = np.array([x[1] for x in biosphere])
+        biosphere_indices["row"] = np.array([x[0] for x in biosphere])
+        biosphere_indices["col"] = np.array([x[1] for x in biosphere])
 
         biosphere_data = np.array([x[2] for x in biosphere], dtype=float)
 
         technosphere_consumption = list(
-            Edge
-            .select(Edge.from_node_id, Edge.to_node_id, Edge.amount)
+            Edge.select(Edge.from_node_id, Edge.to_node_id, Edge.amount)
             .join(Product, on=(Edge.from_node == Product.id))
-            .switch(Edge).join(Activity, on=(Edge.to_node == Activity.id))
-            .where(Activity.subgraph_id == self.id,
-                   Product.kind == "product",
-                   Activity.kind == "activity")
+            .switch(Edge)
+            .join(Activity, on=(Edge.to_node == Activity.id))
+            .where(
+                Activity.subgraph_id == self.id,
+                Product.kind == "product",
+                Activity.kind == "activity",
+            )
             .tuples()
         )
         technosphere_production = list(
-            Edge
-            .select(Edge.to_node_id, Edge.from_node_id, Edge.amount)
+            Edge.select(Edge.to_node_id, Edge.from_node_id, Edge.amount)
             .join(Product, on=(Edge.to_node == Product.id))
-            .switch(Edge).join(Activity, on=(Edge.from_node == Activity.id))
-            .where(Activity.subgraph_id == self.id,
-                   Product.kind == "product",
-                   Activity.kind == "activity")
+            .switch(Edge)
+            .join(Activity, on=(Edge.from_node == Activity.id))
+            .where(
+                Activity.subgraph_id == self.id,
+                Product.kind == "product",
+                Activity.kind == "activity",
+            )
             .tuples()
         )
         tc, tp = len(technosphere_consumption), len(technosphere_production)
 
         technosphere_indices = np.zeros(tc + tp, dtype=INDICES_DTYPE)
-        technosphere_indices['row'] = np.array([x[0] for x in (technosphere_consumption + technosphere_production)])
-        technosphere_indices['col'] = np.array([x[1] for x in (technosphere_consumption + technosphere_production)])
+        technosphere_indices["row"] = np.array(
+            [x[0] for x in (technosphere_consumption + technosphere_production)]
+        )
+        technosphere_indices["col"] = np.array(
+            [x[1] for x in (technosphere_consumption + technosphere_production)]
+        )
 
-        technosphere_data = np.array([x[2] for x in (technosphere_consumption + technosphere_production)], dtype=float)
+        technosphere_data = np.array(
+            [x[2] for x in (technosphere_consumption + technosphere_production)],
+            dtype=float,
+        )
 
         flip_array = np.zeros(tc + tp, dtype=bool)
         flip_array[:tc] = True
@@ -126,17 +145,19 @@ class Subgraph(BaseModel):
 
     def process_lcia(self):
         if self.kind != "impact category":
-            raise ValueError("Processing to LCIA datapackage only available for impact category subgraphs")
+            raise ValueError(
+                "Processing to LCIA datapackage only available for impact category subgraphs"
+            )
 
-        data = list(Edge
-                    .select(Edge.from_node, Edge.amount)
-                    .join(Node, on=(Edge.to_node_id == Node.id))
-                    .join(Subgraph, on=(Node.subgraph_id == Subgraph.id))
-                    .where(Subgraph.id == self.id)
-                    .tuples()
-                   )
+        data = list(
+            Edge.select(Edge.from_node, Edge.amount)
+            .join(Node, on=(Edge.to_node_id == Node.id))
+            .join(Subgraph, on=(Node.subgraph_id == Subgraph.id))
+            .where(Subgraph.id == self.id)
+            .tuples()
+        )
         indices = np.zeros(len(data), dtype=INDICES_DTYPE)
-        indices['row'] = np.array([x[0] for x in data])
+        indices["row"] = np.array([x[0] for x in data])
 
         dp = create_datapackage(
             fs=ZipFS(self.filepath_processed, write=True),
@@ -175,8 +196,16 @@ pg_db.create_tables([Subgraph, Node, Edge], safe=True)
 def create_basic_data():
     try:
         Subgraph.get(Subgraph.id == 1)
-        print('Base data already installed')
+        print("Base data already installed")
     except DoesNotExist:
-        Subgraph.create(name="US EEIO 1.1", kind="database", modified=datetime.datetime.now())
-        gcc = Subgraph.create(name="Climate Change", kind="impact category", modified=datetime.datetime.now())
-        Node.create(name="Climate Change", kind="midpoint", unit="kg CO2-eq.", subgraph=gcc)
+        Subgraph.create(
+            name="US EEIO 1.1", kind="database", modified=datetime.datetime.now()
+        )
+        gcc = Subgraph.create(
+            name="Climate Change",
+            kind="impact category",
+            modified=datetime.datetime.now(),
+        )
+        Node.create(
+            name="Climate Change", kind="midpoint", unit="kg CO2-eq.", subgraph=gcc
+        )
